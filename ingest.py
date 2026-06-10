@@ -42,7 +42,7 @@ def clean_text(text):
 def load_documents(directory=DOCUMENTS_DIR):
     """Load each review .txt file and parse its 3-line header.
 
-    Returns a list of dicts: {source, course_code, course_title, stats, reviews}
+    Returns a list of dicts: {source, course_code, course_title, reviews}
     where reviews is the list of review blocks (label line + review text).
     """
     documents = []
@@ -53,13 +53,15 @@ def load_documents(directory=DOCUMENTS_DIR):
         # Header line 1: "Student reviews of CS 135: Designing Functional Programs"
         m = re.match(r"Student reviews of ([A-Z]+ \w+): (.+)", header_lines[0])
         if not m:
-            raise ValueError(f"{path.name}: unexpected header format: {header_lines[0]!r}")
+            raise ValueError(
+                f"{path.name}: first line {header_lines[0]!r} does not match the "
+                "expected header 'Student reviews of <CODE NUM>: <Title>'"
+            )
         reviews = [b.strip() for b in body.split("\n\n") if b.strip()]
         documents.append({
             "source": path.name,
             "course_code": m.group(1),
             "course_title": m.group(2),
-            "stats": header_lines[2] if len(header_lines) > 2 else "",
             "reviews": reviews,
         })
     return documents

@@ -18,12 +18,10 @@ import sys
 from dotenv import load_dotenv
 from groq import Groq
 
-from retrieve import retrieve, TOP_K
+from config import LLM_MODEL, REFUSAL, TOP_K
+from retrieve import retrieve
 
 load_dotenv()
-
-MODEL = "llama-3.3-70b-versatile"
-REFUSAL = "I don't have enough information on that."
 
 SYSTEM_PROMPT = (
     "You answer questions about University of Waterloo courses using ONLY the "
@@ -38,6 +36,27 @@ SYSTEM_PROMPT = (
     "attached separately by the system."
 )
 
+_client = None
+
+
+def _get_client():
+    global _client
+    if _client is None:
+        api_key = os.environ.get("GROQ_API_KEY")
+        if not api_key:
+            raise RuntimeError(
+                "GROQ_API_KEY is not set — copy .env.example to .env and add "
+                "your free key from https://console.groq.com"
+            )
+        _client = Groq(api_key=api_key)
+    return _client
+
+
+def _is_refusal(answer):
+    """True if the answer is the refusal sentence, tolerating quote-wrapping,
+    trailing whitespace, or punctuation variants from the model."""
+    return REFUSAL.rstrip(".").lower() in answer[:120].lower()
+
 
 def _build_context(chunks):
     return "\n\n".join(
@@ -51,9 +70,8 @@ def ask(question, k=TOP_K):
     chunks = retrieve(question, k=k)
     context = _build_context(chunks)
 
-    client = Groq(api_key=os.environ["GROQ_API_KEY"])
-    response = client.chat.completions.create(
-        model=MODEL,
+    response = _get_client().chat.completions.create(
+        model=LLM_MODEL,
         temperature=0.1,
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
@@ -64,7 +82,7 @@ def ask(question, k=TOP_K):
 
     # Source attribution is guaranteed by code, not the LLM. On a refusal we
     # attach no sources, since the retrieved chunks did not actually answer.
-    if answer.rstrip(".").strip().lower() == REFUSAL.rstrip(".").lower():
+    if _is_refusal(answer):
         sources = []
     else:
         sources = list(dict.fromkeys(c["source"] for c in chunks))

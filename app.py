@@ -9,23 +9,24 @@ documents the answer drew from.
 
 import gradio as gr
 
+from evaluate import EVAL
 from query import ask
 
 
 def handle_query(question):
     if not question.strip():
         return "Please enter a question.", ""
-    result = ask(question)
+    try:
+        result = ask(question)
+    except RuntimeError as e:  # missing API key / vector store, with fix hint
+        return str(e), ""
     sources = "\n".join(f"• {s}" for s in result["sources"]) or "(none — not enough info)"
     return result["answer"], sources
 
 
-EXAMPLES = [
-    "Is ECON 101 considered a heavy workload course?",
-    "Do students find MATH 137 harder than MATH 135?",
-    "How do students generally feel about taking PD 1?",
-    "What is the main difficulty associated with CS 246?",
-]
+# UI example chips come straight from the evaluation set so the demo and the
+# eval harness can never drift apart.
+EXAMPLES = [question for question, _ in EVAL[:4]]
 
 with gr.Blocks(title="The Unofficial Guide — UW Course Reviews") as demo:
     gr.Markdown(

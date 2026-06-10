@@ -16,15 +16,14 @@ import json
 import chromadb
 from sentence_transformers import SentenceTransformer
 
-CHUNKS_FILE = "chunks.json"
-DB_DIR = "chroma_db"
-COLLECTION_NAME = "uwflow_reviews"
-EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+from config import CHUNKS_FILE, COLLECTION_NAME, DB_DIR, EMBEDDING_MODEL
+
 BATCH_SIZE = 256
 
 
 def main():
-    chunks = json.load(open(CHUNKS_FILE, encoding="utf-8"))
+    with open(CHUNKS_FILE, encoding="utf-8") as f:
+        chunks = json.load(f)
     print(f"Loaded {len(chunks)} chunks from {CHUNKS_FILE}")
 
     model = SentenceTransformer(EMBEDDING_MODEL)
