@@ -205,27 +205,21 @@ hallucinate or forget.
 
 **Grounded response 1**
 
-Query: "Do students find MATH 137 harder than MATH 135?"
+Query: "How do students generally feel about taking PD 1?"
 
-Response: "According to Review 57, MATH 135 is 'not that hard compared with MATH 137.'
-However, Review 68 indicates MATH 135 is harder because of its emphasis on proofs, which
-contradicts Review 57. Therefore there is disagreement among students about which course
-is harder."
+Response: Students generally dislike taking PD 1, with many considering it a "waste of time" and "useless". Most reviews express negative sentiments, using strong language to criticize the course. Only one review mentions that the course is "okay for what it is trying to do", but even that student finds the concepts studied to be "mundane".
 
-Source attribution: `uwflow_math135_reviews.txt`, `uwflow_math137_reviews.txt`
-
-> *Note: the wording above is paraphrased from the local run. Paste the exact verbatim
-> `evaluate.py` output here before submitting.*
+Source attribution: `uwflow_pd1_reviews.txt`
 
 ---
 
 **Grounded response 2**
 
-Query: ⟨paste a second answered query from your local `evaluate.py` run⟩
+Query: "Does CHEM 120 involve a lot of new concepts compared to high school chemistry?"
 
-Response: ⟨paste the exact system answer⟩
+Response: According to the reviews, CHEM 120 is mostly a review of high school chemistry with only a few new concepts thrown in. Review 97 states it's "a good review of high school chemistry with only a few new concepts thrown in" and Review 98 says "a lot of it was high school, so it wasn't too bad." However, Review 76 mentions that the course "delves a little deeper into thermochemistry, gases, and also theory behind bonding," suggesting that there are some new concepts introduced.
 
-Source attribution: ⟨paste the sources line⟩
+Source attribution: `uwflow_chem120_reviews.txt`
 
 ---
 
@@ -258,12 +252,9 @@ an out-of-scope question the Answer shows the refusal and the sources panel show
 
 > **User:** How do students generally feel about taking PD 1?
 
-> **System (Answer):** ⟨paste the exact PD 1 answer from your local run⟩
+> **System (Answer):** Students generally dislike taking PD 1, with many considering it a "waste of time" and "useless". Most reviews express negative sentiments, using strong language to criticize the course. Only one review mentions that the course is "okay for what it is trying to do", but even that student finds the concepts studied to be "mundane".
 >
 > **System (Retrieved from):** • uwflow_pd1_reviews.txt
-
-> *Paste the verbatim answer text above from your local `python app.py` or
-> `python query.py "How do students generally feel about taking PD 1?"` run.*
 
 ---
 
@@ -275,11 +266,11 @@ should be confirmed against the verbatim answers from your local full run.
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | Is ECON 101 considered a heavy workload course? | No — an easy/bird course. | ⟨paste/summarize verbatim answer⟩ | Relevant (5/5 from ECON 101, best dist 0.357) | ⟨Accurate / Partial — confirm⟩ |
+| 1 | Is ECON 101 considered a heavy workload course? | No — an easy/bird course. | Mixed signals: Review 92 says light workload, Review 122 says it requires work, Review 82 called it one of the hardest. | Relevant (5/5 from ECON 101, best dist 0.357) | Partially accurate |
 | 2 | Do students find MATH 137 harder than MATH 135? | Cross-doc: MATH 135 often harder (proofs new); 137 a continuation of HS calculus. | Reported the disagreement between Review 57 and Review 68 instead of forcing a verdict. | Relevant (mix of MATH 135 & 137, best dist 0.327) | Accurate — correctly surfaced conflicting evidence |
-| 3 | How do students generally feel about taking PD 1? | Widely disliked — useless busy work. | ⟨paste/summarize verbatim answer⟩ | Relevant (5/5 from PD 1, best dist 0.279) | ⟨Accurate — confirm⟩ |
-| 4 | What is the main difficulty associated with CS 246? | The long, heavy assignments. | ⟨paste/summarize verbatim answer⟩ | Partially relevant (3/5 from CS 246; drift to CS 240 & CS 135; conflicting claims) | ⟨likely Partially accurate — confirm; see Failure Case⟩ |
-| 5 | Does CHEM 120 involve a lot of new concepts vs high school? | No — largely repeats grade-12 chemistry. | ⟨paste/summarize verbatim answer⟩ | Relevant (5/5 from CHEM 120, best dist 0.257) | ⟨Accurate — confirm⟩ |
+| 3 | How do students generally feel about taking PD 1? | Widely disliked — useless busy work. | Students generally dislike PD 1, calling it a waste of time and useless; only one review offered mild praise. | Relevant (5/5 from PD 1, best dist 0.279) | Accurate |
+| 4 | What is the main difficulty associated with CS 246? | The long, heavy assignments. | Time-consuming nature and exponentially increasing workload; did not specifically surface C++ memory management. | Partially relevant (3/5 from CS 246; drift to CS 240 & CS 135; conflicting claims) | Partially accurate — see Failure Case |
+| 5 | Does CHEM 120 involve a lot of new concepts vs high school? | No — largely repeats grade-12 chemistry. | Mostly a review of HS chemistry with a few new concepts; accurately noted Review 76's mention of deeper thermochemistry topics. | Relevant (5/5 from CHEM 120, best dist 0.257) | Accurate |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
@@ -310,7 +301,9 @@ CHEM 120), which quantitatively flags the weaker match.
 names a specific course (e.g., "CS 246"), retrieval is restricted to that course's
 chunks via a ChromaDB `where={"course_code": "CS 246"}` filter — eliminating the CS 240
 / CS 135 drift entirely. (This is also a listed stretch feature.) A secondary improvement
-would be a hybrid keyword+semantic search so the exact token "246" is weighted.
+would be a hybrid keyword+semantic search so the exact token "246" is weighted, and
+increasing TOP_K from 5 to 8–10 for queries whose best distance exceeds 0.42 would
+surface the C++ memory-management chunks that fell just outside the cutoff.
 
 ---
 
