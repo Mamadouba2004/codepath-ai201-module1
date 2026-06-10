@@ -30,6 +30,8 @@ Student course reviews at the University of Waterloo. This knowledge is valuable
 | 8 | UWFlow SPCOM 223 Reviews | SPCOM 223: Public Speaking | `documents/uwflow_spcom223_reviews.txt` |
 | 9 | UWFlow MATH 239 Reviews | MATH 239: Introduction to Combinatorics | `documents/uwflow_math239_reviews.txt` |
 | 10 | UWFlow CHEM 120 Reviews | CHEM 120: General Chemistry 1 | `documents/uwflow_chem120_reviews.txt` |
+| 11 | UWFlow CS 246 Reviews | CS 246: Object-Oriented Software Development | `documents/uwflow_cs246_reviews.txt` |
+| 12 | UWFlow CS 240 Reviews | CS 240: Data Structures and Data Management | `documents/uwflow_cs240_reviews.txt` |
 
 ---
 
@@ -42,9 +44,9 @@ Student course reviews at the University of Waterloo. This knowledge is valuable
 
 **Chunk size:** 500 characters
 
-**Overlap:** 50 characters
+**Overlap:** 100 characters
 
-**Reasoning:** Since the documents are primarily student reviews, most insights or opinions are concisely stated in 1-3 sentences. A chunk size of 500 characters ensures that single thoughts and standalone reviews remain largely intact without diluting the semantic meaning with too many topics at once. A 50-character overlap helps maintain grammatical context and reference continuity across sentences that might straddle a boundary.
+**Reasoning:** Since the documents are primarily student reviews, most insights or opinions are concisely stated in 1-3 sentences. A chunk size of 500 characters ensures that single thoughts and standalone reviews remain largely intact without diluting the semantic meaning with too many topics at once. A 100-character overlap helps maintain grammatical context and reference continuity across sentences that might straddle a boundary, especially for longer 800+ character reviews.
 
 ---
 
@@ -59,6 +61,8 @@ Student course reviews at the University of Waterloo. This knowledge is valuable
 **Embedding model:** `all-MiniLM-L6-v2` via `sentence-transformers`
 
 **Top-k:** 5
+
+**Distance Metric:** I will create the ChromaDB collection with `metadata={"hnsw:space": "cosine"}` so that distance scores (where below 0.5 is good) are interpretable against a standard cosine baseline.
 
 **Production tradeoff reflection:** 
 If cost and scale weren't limits, I might evaluate switching to a model like `text-embedding-3-small` or `text-embedding-3-large` (OpenAI), or an advanced dense retriever specialized in domain adaptation. I'd weigh factors like:
@@ -78,7 +82,7 @@ If cost and scale weren't limits, I might evaluate switching to a model like `te
 | # | Question | Expected answer |
 |---|----------|-----------------|
 | 1 | Is ECON 101 considered a heavy workload course? | No, reviews emphasize it is remarkably easy/bird course if you read the textbook or use test banks. |
-| 2 | Do students find the textbook necessary for MATH 135? | Yes, many reviews suggest you MUST do textbook practice problems to pass the assessments. |
+| 2 | Do students find MATH 137 harder than MATH 135? | Expected answer involves synthesizing two sources: Many find MATH 135 harder because proofs are a completely new concept compared to high school, while 137 is often seen as a continuation of high school calculus. This checks cross-document synthesis. |
 | 3 | How do students generally feel about taking PD 1? | Universally disliked. Often described as useless, a waste of time, or tedious "busy work". |
 | 4 | What is the main difficulty associated with CS 246? | The assignments. They are very long, heavy, and strict on C++ memory management and design patterns. |
 | 5 | Does CHEM 120 involve a lot of new concepts compared to high school chemistry? | No, multiple reviews mention it feels like a repeat or direct continuation of Grade 12 Chemistry. |
@@ -91,7 +95,7 @@ If cost and scale weren't limits, I might evaluate switching to a model like `te
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1. **Missing Source Attribution in Chunks:** When a review is chunked, the name/course ID at the top of the document might be lost if it's not injected into the chunks. For example, a chunk might say "the assignments are terrible," but the LLM won't know if that's about MATH 135 or CS 246. To fix this, I need to reliably prepend the course name to chunks.
+1. **Missing Source Attribution in Chunks:** When a review is chunked, the name/course ID at the top of the document might be lost if it's not injected into the chunks. For example, a chunk might say "the assignments are terrible," but the LLM won't know if that's about MATH 135 or CS 246. To fix this, I will prepend the course name into the chunk text itself so the embedding captures it, AND store the course code in the ChromaDB metadata for programmatic source attribution.
 
 2. **Noisy/Conflicting Reviews:** Because reviews are subjective, one chunk might say "Prof X is great," while another says "Prof X is awful." If the retrieval returns conflicting points, the LLM might hallucinate a middle ground instead of accurately portraying the polarizing student sentiment.
 
@@ -101,11 +105,11 @@ If cost and scale weren't limits, I might evaluate switching to a model like `te
 
 ```mermaid
 flowchart TD
-    A[Document Ingestion<br>Python reading .txt files] --> B[Chunking<br>LangChain RecursiveCharacterTextSplitter]
+    A[Document Ingestion<br>Python reading .txt files] --> B[Chunking<br>Custom Python split on \n\n boundaries]
     B --> C[Embedding<br>sentence-transformers all-MiniLM-L6-v2]
-    C --> D[Vector Store<br>ChromaDB]
+    C --> D[Vector Store<br>ChromaDB with cosine distance]
     D --> E[Retrieval<br>ChromaDB search top-k]
-    E --> F[Generation<br>Groq LLM Llama3]
+    E --> F[Generation<br>Groq LLM llama-3.3-70b-versatile]
 ```
 
 ---
@@ -123,10 +127,10 @@ flowchart TD
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
-I will prompt Copilot (or ChatGPT) with the *Chunking Strategy* section and the *Architecture* diagram to generate the Python code using `RecursiveCharacterTextSplitter`. I expect it to output a function that successfully loads the `.txt` files from `documents/` and outputs a list of string chunks containing the course name prepended to them (from my Anticipated Challenges analysis).
+I will prompt Copilot (or ChatGPT) with the *Chunking Strategy* section and the *Architecture* diagram to generate a ~15-line custom Python text splitter. Because documents have clean `\n\n` boundaries, I'll bypass LangChain and write a function that splits at these boundaries, groups text to the ~500 char target without breaking sentences, and applies the 100 char overlap. I expect it to output a list of chunks, properly prepending the course name to the chunk text and saving the course code to be used for metadata.
 
 **Milestone 4 — Embedding and retrieval:**
 I will give Copilot my *Retrieval Approach* and ask it to initialize a ChromaDB collection and use `sentence-transformers`'s `all-MiniLM-L6-v2` model to embed my chunks. I expect a script that loops over the chunks, stores them in Chroma, and provides a simple function to query the top 5 nearest neighbors given a user question.
 
 **Milestone 5 — Generation and interface:**
-I will prompt Claude/Copilot with my setup and ask it to integrate the `Groq` API using LLaMA-3. I'll provide the specific instructions from the Milestone 5 setup and the outputs of my retrieval logic, requesting a CLI loop or chat function that passes the retrieved context as a system prompt to answer the user's questions definitively.
+I will prompt Claude/Copilot with my setup and ask it to integrate the `Groq` API using `llama-3.3-70b-versatile`. I'll provide the specific instructions from the Milestone 5 setup and the outputs of my retrieval logic, requesting a CLI loop or chat function that passes the retrieved context as a system prompt to answer the user's questions definitively.
