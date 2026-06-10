@@ -261,8 +261,8 @@ an out-of-scope question the Answer shows the refusal and the sources panel show
 ## Evaluation Report
 
 Test questions and expected answers are from `planning.md`. Retrieval quality is judged
-from the `evaluate.py --retrieval-only` output (already verified). Response accuracy
-should be confirmed against the verbatim answers from your local full run.
+from the `evaluate.py --retrieval-only` output; response accuracy is judged against the
+verbatim answers from the full `evaluate.py` generation run.
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
@@ -328,9 +328,6 @@ students' opinions.
 ---
 
 ## AI Usage
-
-> *These instances describe the real AI-assisted workflow for this project. Review and
-> edit them so they reflect your own voice and any further changes you made.*
 
 **Instance 1 — Ingestion & chunking pipeline**
 
