@@ -1,0 +1,517 @@
+Student reviews of MATH 137: Calculus 1 for Honours Mathematics
+University of Waterloo — collected from UWFlow (student-run course review site)
+Course stats: 780 ratings | 86% found it useful | 56% found it easy | 69% liked it
+
+Review 1 (student liked the course):
+and then isaac newton said "it's calculating time"
+
+Review 2 (student liked the course):
+!!!!IF YOU'RE IN CS THEN DROP DOWN TO MATH128, YOU DON'T NEED TO TAKE THIS TRICKIER VERSION!!!! Compared to math 135, this course is like heaven. It's calculus except you must basically prove every single concept in a more complex manner before applying it. The proofs were relatively approachable and the computations are crazy either. The theorems can be shown visually and understood pretty easily unlike the abstract stuff from 135. If you're in CS ir the dual degree then you don't really need to take this course and can switch to math127 which will allow you to reduce your workload and get a better mark.
+
+Review 3 (student disliked the course):
+I took this course in Fall 2020, online. I remember struggling in it- the course notes were difficult to digest, and the video lectures were incredibly dry. It was a required course for me, I would not recommend taking it as an elective unless you really need it.
+
+Review 4 (student disliked the course):
+The course is pretty proof heavy at the beginning, it was definitely a bit tricky wrapping my head around the Epsilon-delta proofs and other formal definitions at first. The course notes are really well organized. Both exams were pretty manageable.
+
+Review 5 (student liked the course):
+Read the textbook, it is a godsend
+
+Review 6 (student liked the course):
+The content is really easy to understand if you have taken calculus in high school. However, the midterm and final are really really hard so please be ready for that. The Mobius and written assignments are just fine and they do not make your life difficult. It is not hard to get a good mark in this course so do not be nervous.
+
+Review 7 (student liked the course):
+Heavy concepts for me. Need to memorize a lot of formulas, but still great.
+
+Review 8 (student liked the course):
+Kind of boring compared to MATH 135, but still useful in it's own right. Basically identical to the derivatives part of any good high school calc class (some people may not have done epsilon-delta proofs before though). The difference is that everything is proved from previous results -- and I mean everything! I'm pretty sure there were only three or four things we didn't fully prove in the whole class. Format was one assignment per week (usually 3-5 hours of work), plus one Mobius quiz a week (under an hour). The midterm and exam were both fairly easy (the last question on the midterm got made into a bonus because its average was so low). I do regret not taking MATH 147 instead though. 137 focused too much on computation, and moved rather slowly at times. If you're anywhere near the Euclid cutoff (even 10 points under!) I still would recommend you apply for the advanced math courses rather than the regular ones. I for one found 137 somewhat boring.
+
+Review 9 (student liked the course):
+A good introduction to university-level calculus. Although most of the content is review from high school, it is covered in a more thorough, proof-oriented manner.
+
+Review 10 (student liked the course):
+Pre-midterm deals with limits and continuity on a very formal level (epsilon proofs) which will probably be the hardest part of the course to wrap your head around. It gets far better after midterm, which deals mostly with derivatives and what is probably high-school-material. If you did calculus in high school you might be able to take it easy in the second half, but do keep note that there was stuff that I didn't personally cover in high school (like the Mean Value Theorem, Newton's method, and Taylor's Theorem).
+
+Review 11 (student disliked the course):
+Was taught by Prof. Diana Castaneda Santos (I don't know why her name isn't on the professor's list), in the online section. Everything before mid-term is a nightmare. After mid-term the syllabus gets a little easy because 50-60% of the syllabus after mid-term was just high-school Calculus. I wouldn't have passed this course without Prof Diana's weekly notes. She starts the class with a little bit of revision in the form of a quiz, and she plays songs students are practicing or trying to solve a question (cool af). This was the toughest course I had to take in the fall term, but Prof Diana made it look less horrific. Also, this course is weirdly designed (compared to 135). They gave us 3 questions that needs to be solved in 24 hrs, but those 3 questions were completely random, out of the syllabus, and couldn't even be solved in 72 hours without professors or TA's help. 5/5 rating for the professor, 0/5 for the course.
+
+Review 12 (student liked the course):
+The lessons were really easy to follow and I found that the final exam was really fair, it tested everything on the outline and many of the questions were direct applications of what was covered in class.
+
+Review 13 (student liked the course):
+Eddie Dupont is just goated out of this world. Overall the course was pretty easy, the only different thing would be delta epsilon proofs which are fairly easy -- mostly just practice and a very step by step approach of proving a limit or divergence. If you have the chance, take it with Eddie Dupont (the Jesus of Calclulus)
+
+Review 14 (student liked the course):
+Depending on how in depth your high school calculus class was, this class is mostly review. However, there are some new concepts and it is definitely more challenging then it was in high school. Therefore, it is not an easy class, but not impossible either. I did not find anything in the course particularly interesting and exciting, but that is just personal preference. I found the second half of the course to be much easier than the first part. Spend a little bit of time reviewing each week as there are a ton of formulas and theorems that need to be memorized for exams. I found the exams and assignments in the course quite fair. The weekly multi-select quizzes were the trickiest part.
+
+Review 15 (student liked the course):
+I found this course very interesting and the content wasnt horribly difficult to understand but I found that questions were marked harshly. mobius quiz questions, as well as midterm questions, were nothing like what we were taught in class or like the example/questions given for practice.
+
+Review 16 (student disliked the course):
+I found it to be extremely boring and useless to me as a CS student. Exam and midterm were easy to pass but difficult to get 80+ on. Study ahead of time and do assignments by yourself and you will be fine.
+
+Review 17 (student liked the course):
+It's a lot of information to absorb, and yeah there is some memorization required especially pre-midterm content (memorizing all the formal proofs). But after midterms it became pretty interesting regarding derivative content (and stuff other than limits lol)
+
+Review 18 (student liked the course):
+Basically a course that extends from HS calc. Definitely has more fun proofs, but it's pretty bashy outside of that. I don't love it, but I don't hate it. I do hate Mobius quizzes for sure though. Also 50% final is kinda messed up, but Uni courses be like that.
+
+Review 19 (student liked the course):
+In 137P - the physics-based version of 137. It's really similar, although every once in a while there's a gravity problem thrown in.
+
+Review 20 (student liked the course):
+Bird Course. I didn't like the application part of the course, but I loved the proofs.
+
+Review 21 (student liked the course):
+better than 135
+
+Review 22 (student disliked the course):
+Outside of sequences, a lot of High School review
+
+Review 23 (student liked the course):
+You're going to do a lot of limits. Also, memorize the theorems because you won't get a formula sheet. The material isn't the most interesting but it's not boring either. Most of the material seems really applicable. Before the midterm is difficult but not as much as everyone says. After the midterm is easier, but not as easy as everyone says. I didn't love or hate this course. It was kinda neutral to me.
+
+Review 24 (student liked the course):
+Start assignments early and go to office hours and you'll be fine.
+
+Review 25 (student liked the course):
+I took this in-person in Fall 2021, and I found it to be a fairly easy class if you have solid foundations from high school. Go to the lectures, go to office hours, and try not to fall behind. The proofs will be very different from high school, but there's plenty of time to adjust to them.
+
+Review 26 (student disliked the course):
+Practice problems will make u ace the course
+
+Review 27 (student disliked the course):
+Took this F2020, the damned weekly quizzes... Weekly assignment was one question long and hella easy, start early and the proof will click after you stare at them for long enough. Even though the quiz was structured terribly (no going back to previous questions, has to select all correct choice for mark) we got 2 attempts for most of them. I thought I enjoyed calculus but then I take MATH 137. First half was quite rough at first, I legit stared at the true definition of limits for 20 minutes straight, but second half got way easier. All of my friends in upper year did decent or well in this class but I'm the only one who did terrible, I guess calculus is just not it for me.
+
+Review 28 (student disliked the course):
+Mobius can die.
+
+Review 29 (student liked the course):
+Assignments were not at all difficult and quizzes were pretty easy to do given your 3 attempts. Material is not super interesting, mostly reteaching you highschool calc but more rigorously. Brian Forrest's lecture videos were very clear.
+
+Review 30 (student liked the course):
+Tricky mobius but apart from that, pretty straightforward. Make sure to understand Epsilon Delta and limits!
+
+Review 31 (student liked the course):
+Took it online during covid-19. Most assignments and quizzes were relatively easy, but the exams were pretty challenging.
+
+Review 32 (student disliked the course):
+Never thought that a basic Calculus course would be hard like that. Read books for the whole term and lose marks in weekly quizzes. Quizzes are totally different from questions in the practice assignments, and exams are somehow harder than quizzes. Remember every definition carefully and have good luck.
+
+Review 33 (student disliked the course):
+This class is literally just epsilon and delta proofs but they decided it had to be a tough class so they came up with these terrible mobius quizzes worth half your grade. Having select all that apply questions should be a crime.
+
+Review 34 (student liked the course):
+The topics were actually interesting, but the assessments were a whole different beast.
+
+Review 35 (student disliked the course):
+Quizzes were too hard for me. It should have been the assignments that were supposed to be hard, to see if we can solve them. Oh well. Quizzes were too hard because they were basically 4 true-false questions and you need to get all of them right, otherwise you get a 0. All the questions were like this, so it made it very difficult.
+
+Review 36 (student disliked the course):
+Overall, a course with interesting content but very badly run. The review below sum it up well, trash mobius quizzes with select all the apply, no part marks and a linear format. However, the crowdmark assignments were quite doable. My main issue with this course was the lacking of teaching and/or practice material. Unlike M135, we had almost no practice before doing a Mobius Quiz, which explains why so many people did bad. Oh, MANY people did poorly on the midterm, a combination of first year reality plus horrible teaching. Some of us felt as if the instructors spent more time making some impossible test questions rather than teaching us. Sometimes, even the Prof at office hours would get one of the options incorrect being confused by certain absurd questions. Thankfully I had learned most of this material in high school, so I somehow finished with a mark in the low 90's. AVOID THIS COURSE ONLINE!
+
+Review 37 (student liked the course):
+137 in Fall 2020 was badly evaluated, with annoying, linear (can't go back to previous questions), select-all-that-apply Mobius quizzes testing our knowledge on weird edge cases of formal definitions (which is a method of deflating high avgs caused by cheaters, but really hurts the non-cheaters' grades). However, the Crowdmark written assignments were pretty straightforward, and office hours were helpful in clarifying concepts/questions. Despite all this, I liked 137 content a lot after understanding the concept behind epsilon-delta proofs and how to do them (absolutely essential!). The midterm was tougher than usual - or so I've heard - with 60s averages compared to 70s, but I believe 60s and 70s averages are normal for the majority of university courses.
+
+Review 38 (student disliked the course):
+Mobius portion can tend to be quite tricky but written assignments were generally simple. Personally found content got easier after the midterm though I don't think practice questions given weekly were helpful for either the midterm or final.
+
+Review 39 (student liked the course):
+First half of the course is full of content that most students likely have never seen (epsilon, delta, etc.), however, after the midterm, the course was significantly easier (MCV4U content). Mobius assignments were pretty tricky and poorly graded, but we were given two tries per assignment; written assignments were straightforward.
+
+Review 40 (student liked the course):
+Despite many ppl complaining about the Mobius portion, the course was actually pretty light. It got easier 2nd half and was definitely much easier than the second half of math 135. Crowdmark weekly assignments are very easy and short. Really the only hard part is the tricky select all that you can apply questions which are especially tricky on the midterm and final. However, since you are allowed to use tools like desmos you can always verify your answer. In terms of how the course is taught, you have the choice of reading the course notes or watching pre-recorded videos from 2017.
+
+Review 41 (student disliked the course):
+HORRIBLE online course, this took 10 years off my lifespan. The "lecture videos" are just a monotone read-aloud from the textbook that does not prepare you for the weekly Mobius quizzes. The written assignments are very easy but do not help in studying for the midterm/exam/quizzes. fck 137
+
+Review 42 (student liked the course):
+It gets easier after the midterm. Be very careful on the mobius assignments because missing one tiny detail can lose you a whole point. Written assignments were pretty easy.
+
+Review 43 (student liked the course):
+mandatory cs course. The delta epsilon stuff was pretty difficult for me, but the later half of the course with derivatives got easier.
+
+Review 44 (student liked the course):
+Great course. I had in-person despite COVID-19, and the course material was exciting and very enjoyable.
+
+Review 45 (student liked the course):
+I took this course during Fall 2020, so quizzes were online, but the class was in person. The course was super tough, especially the quizzes, where every question tries to throw you off guard, and the midterm was also super tough. The assignments were pretty easy, especially towards the end of the course, so I would encourage you to do your best on them, even though they may only be worth a small portion portion of your grade. The first half of the course is much more difficult than the second half of the course. In the second half of the course, you will meet concepts you may have already learned in high school calculus.
+
+Review 46 (student liked the course):
+I think the course material itself was somewhat enjoyable, though I didn't like the assessments. The weekly Mobius Quizzes, worth 40% of your grade, each contain 10 multi-select choice questions; each question is a trick question designed to trick the student into selecting an incorrect choice rather than actually testing to see if the student understands the material. What's more, if you select 4/5 of the correct choices on a multi-select choice question, then you still get 0 marks for that question. To be fair, you do get 2 attempts per quiz, but it still leaves a sour taste in my mouth that the Mobius Quizzes are designed to bring down the average rather than actually test student understanding of the material. The midterm was a bit brutal for some, but the final was definitely easier.
+
+Review 47 (student disliked the course):
+Poorly organized course during the pandemic. Hard for those who have no experience with limit. Little explanation but hard quizzes (notes that although I say hard quizzes, it is hard because you cannot have enough practice if you just do what teachers provided for you if you have ever learned some analysis, super easy question). If you already learn a lot of calculus before taking math137, nice. Then you will lose marks for no reason during your midterm and final exam! (I tried remark and they just increase my mark (but not full mark) with no feedback and explanation, remark for weekly assign will give you feedback). Wanna have a high mark (85+) in MATH 137? Learn limit and do exercise before taking it and be cautious with the midterm and final exam. After limit, there is just high school derivative with easy questions. Honestly, I don't think it is possible to get 95+ since many of my friends( and I) have already got 97+ without final exam marks, and I know only one guy achieved 95 (he got 100 before taking the final). According to Youtube, many guys have increased their marks a lot after the final. So, have fun.
+
+Review 48 (student liked the course):
+The Mobius quizzes really fucked me up. I wasted tons of time trying to figure out which choice or even which question I did wrong, simply because no detailed feedback was given after each attempt.
+
+Review 49 (student liked the course):
+Took online. If the quizzes are still multiselect, or the structure of the course does not change, avoid taking online. Interesting material, but almost no interaction between you and course staff.
+
+Review 50 (student disliked the course):
+Took online with an in-person component. I'll give my prof, Homeyra, the benefit of the doubt because it was her first time teaching this class, but unfortunately she was of little help and I and most other students had to rely on reading the textbook before class to stay caught up. This course is extremely difficult up until the midterm, and then after that becomes extremely manageable with most content just being review from high school. Assignments were pretty tough but nothing ridiculous.
+
+Review 51 (student disliked the course):
+Topics aren't that hard, especially for a student coming out of honours high school math, assignments are easy but quizzes are ridiculously hard to do well on if they try to make it hard
+
+Review 52 (student disliked the course):
+Online for this course is a nah, the prof didn't even teach the course himself. He just reuploaded videos from another prof in 2017. I'm paying 10k for videos from 2017.
+
+Review 53 (student disliked the course):
+It's hard. And useless. That's really all there is to say. Unfortunately if you're CS you have to take it. Or take 12[78] if you don't care about not being able to take upper year math courses that aren't required. I've got nothing against the instructors, I'm just not a math guy. Oh, and by the way so many people fail, especially midterms.
+
+Review 54 (student disliked the course):
+Online version of this course was very poorly structured. The only learning materials you really have are the course notes, since the 'lectures' are just the prof reading the course notes. I wish it was structured more like MATH 135; they did a much better job in delivering material virtually. I wish I had taken the in-person class instead.
+
+Review 55 (student disliked the course):
+As someone that took AP calc in high school, the material was straightforward. Quizzes were very frustrating because they were written with the purpose of catching students off guard by testing for every possible edge case.
+
+Review 56 (student liked the course):
+Mobius quizzes are formatted poorly but the rest is fairly straight forward
+
+Review 57 (student disliked the course):
+Came into this course doing extremely well in high school calculus, and did not meet my expectations. The course content isn't bad, and my in-person professor taught well; yet the online quizzes were hell, the scheme they chose left no room for part marks. I assume when the course is offered fully in-person, the quizzes won't be as theoretical and would be more doable, but online it just sucked.
+
+Review 58 (student disliked the course):
+Quizzes are bs
+
+Review 59 (student disliked the course):
+Horrible course to take online. The course is very badly structured and you literally only have the course notes and some boring videos where prof B.forrest only reads the course notes out loud instead of explaining the concepts. There is almost no examples to help you understand the concepts. Do not recommend taking this course online at all. We're mostly assessed on the theory rather than the applications. Get ready to learn a lot of theory without having examples to help you understand the concept. As for the midterm, it was really hard. Please take this course in person if you can, especially if you have prof Jordan Hamilton. He explains the concepts very clearly.
+
+Review 60 (student disliked the course):
+Take math 127 for your sanity (dw it still meets CS degree requirements) if you don't know limits and derivatives inside out, otherwise, you will be literally watching 'Inside Out'
+
+Review 61 (student liked the course):
+For the online section, you better study well for the midterm, or be prepared to fail it! Keep low expectations for this course - in terms of grades. :(
+
+Review 62 (student liked the course):
+You know how half your class did terrible in high school calc ? Same deal in MATH137 except everyone in the class was the "smart kid" and had high 90s in high school.
+
+Review 63 (student disliked the course):
+The online version is botched up. The worse course ever. Pathetic! Terrible!
+
+Review 64 (student liked the course):
+Just like high school calculus, only gets interesting towards the end
+
+Review 65 (student disliked the course):
+Shallow depth in topics to cover more of them. I had to refer to online sources to cover keypoints not explained on class. Some topics are meant to get rid of calculators but at the end you use them, so no big deal. Study from the assignments, the midterm was mostly based on them.
+
+Review 66 (student liked the course):
+My love for Mathematics increased substantially after taking this course.
+
+Review 67 (student liked the course):
+My prof was amazing and I learned a lot about calculus from him. The course content is just like the content for MATH 135 in the sense that you learn a lot of fundamentals of math and computer science. That being said the quizzes aren’t bad but the exams are tough. Prepare to study upwards of 12 hours.
+
+Review 68 (student liked the course):
+A good part of this course was review of high school calculus in order to ensure that everyone was on the same page. The quizzes are only out of 24, so one small screw-up tanks your grade easily! They also like to trick you with the multiple choice and true/false questions. All in all, not too difficult of course. I would definitely say MATH 135 is harder, and that more of your focus should be geared towards that course.
+
+Review 69 (student liked the course):
+This course is beneficial for the students. Don't fall back on your course material or you'll have a hard time catching up if you have never covered these topics before.
+
+Review 70 (student liked the course):
+Mostly high school review with a couple non-intuitive concepts like Epsilon Delta proofs. Weekly quizzes are easy if you study, midterm was also around the same difficulty.
+
+Review 71 (student disliked the course):
+your usual calc course. Not very fun but not hard either. 10% weekly assignments 25% mid term and 65% final. Go to lectures and keep up with the material and you'll do fine
+
+Review 72 (student liked the course):
+Basically high school calculus, but with some extra content.
+
+Review 73 (student liked the course):
+Go to office hours and the tutorial centre if you have trouble. The weekly quizzes helped for memorization of the material
+
+Review 74 (student disliked the course):
+Some of this stuff is the same as high school but it's taught a different way and some it also involves proofs. You can get away with not understanding some of the proofs but make sure you learn the general procedure. Quizzes were reasonable, midterm was quite easy but the final was a nightmare.
+
+Review 75 (student liked the course):
+Mostly high school review with more rigour, some more theorems, and a few new concepts. Not too challenging at all with plenty of resources to help with understanding.
+
+Review 76 (student disliked the course):
+A lot of annoying theorems and definitions and variables. Weekly quizzes which aren't hard if you actually study what was taught that week and understand the assignment.
+
+Review 77 (student liked the course):
+Make sure you have taken Grade 12 Calculus course then you will be fine.
+
+Review 78 (student disliked the course):
+I took the course in Fall 2017, and it was the first term after a major change in course content. We had four big written assignments, which were nightmares. Delta-epsilon proofs were so confusing. Calculus was my favorite course in high school, but my least favorite in university.
+
+Review 79 (student disliked the course):
+Its really hard...
+
+Review 80 (student liked the course):
+Proofs weren't easy! Fun course nonetheless!
+
+Review 81 (student liked the course):
+Final was much harder than midterm. I only liked the class because Eden was teaching it.
+
+Review 82 (student liked the course):
+The final was quite brutal. This is not a course you can relax on- you really need to make sure that you keep up, and start the assignments early (especially the written ones). It is manageable though.
+
+Review 83 (student liked the course):
+It was hell, but after the midterm, it isn't as hard to understand.
+
+Review 84 (student liked the course):
+The new first unit is certainly challenging, and the assignments and tests were more proofs and theory based but there is still an abundance of familiar high school content.
+
+Review 85 (student liked the course):
+High school calculus with a lot more detail. You really need to study it to fully understand what's going on
+
+Review 86 (student liked the course):
+I took physics-based, and I don't regret it. Final was brutal though.
+
+Review 87 (student liked the course):
+I was in the physics-based stream, which covers slightly different material. There were only 4 6-question assignments, much less than the other classes, but they were significantly harder. The midterm and final often recycle assignment questions, so make sure you understand the solutions before going in. Matt Scott is amazing, which also helps the stream greatly.
+
+Review 88 (student liked the course):
+A LITTLE BIT OFF
+
+Review 89 (student liked the course):
+Matt Scott is a legend.
+
+Review 90 (student liked the course):
+Straightforward calculus class with a lot of material.
+
+Review 91 (student liked the course):
+DO NOT listen to any reviews before fall 2017! First half of this course is literal death!!! The assignments are insanely hard! Hit up MC 4066 everyday when you have WAs an start them at least a week before they're due!! Midterm was okay, hoping the final goes better as the second half of the course is just derivatives and integrals.
+
+Review 92 (student disliked the course):
+Took the Physics section. Physics questions were unnecessarily difficult. The rest of the content is easy for anyone who's done calculus in high school.
+
+Review 93 (student liked the course):
+This course is basically calculus for babies
+
+Review 94 (student liked the course):
+High-school calculus all over again! Unlike MATH 135, MATH 137 is about 80% high school review, with some new concepts about integration covered near the end. I took the physics-based section of this course, and I enjoyed some of the physical applications of calculus we learned in class, since it made it more interesting for me. It is easy to be bored in class, but remember to pay attention to things that are not intuitive, since things you do not understand well could spell trouble during the midterm or the final exam. Overall, a fairly straightforward course that cushions you well for university.
+
+Review 95 (student liked the course):
+Quite an easy course if you have done calculus in high school. The ending sections dealing with introduction to integration may be a challenge, but there is not much about it. Also, epsilon delta proofs are HARD :(
+
+Review 96 (student liked the course):
+Calc is fun. You'll like this course if your prof is cool. It gets annoying not having a calculator sometimes and epsilon-delta proofs are the bane of your existence.
+
+Review 97 (student liked the course):
+Interesting course, a lot was review from grade 12 (in Ontario). Has some proofs and some harder concept applications. Pay attention and you will do fine.
+
+Review 98 (student liked the course):
+I had taken AP Calc in high school and this was easier than I found that.
+
+Review 99 (student liked the course):
+High school review for most students. Integration was new for me since it wasn't taught at my high school but it was relatively straightforward. Make sure to read textbook if you're ever confused about something; it's a really good textbook.
+
+Review 100 (student liked the course):
+Get Mike Eden.
+
+Review 101 (student liked the course):
+The course was easier than math 135 in a sense that the materials covered were largely reviews of Gr.12 contents.
+
+Review 102 (student liked the course):
+Took AP Calc in high school so this was so easy. That being said, I would still loose marks for not showing enough steps, or solving the question exactly how they wanted it. Assignments took me an hour or two a week. I also took MATH137P (the physics based section with Poulin) and it was useful to see calc with physics.
+
+Review 103 (student liked the course):
+Make notes on the definitions and document the correct steps to solve certain problems. If you do this, then you can spend little to no time on the course
+
+Review 104 (student liked the course):
+Midterm will most likely wreck u
+
+Review 105 (student liked the course):
+The course starts off really slowly and escalates rather quickly so if you do not study, you will be guaranteed to fail. Other than that, it was a very useful course that added a lot to my Calculus knowledge
+
+Review 106 (student liked the course):
+A deceptively difficult course. The content itself is easy and mostly high school review, but the midterms and exams were filled with miserably hard, unfair problems.
+
+Review 107 (student liked the course):
+Great base for calculus going forwards. Slow at the beginning, but provides excellent base for the rest of the course.
+
+Review 108 (student disliked the course):
+Just not a fan of calculus, course was okay though
+
+Review 109 (student liked the course):
+This course is a weed-out course. Make sure to know your theorems and know how to apply them. Know your delta epsilon proofs.
+
+Review 110 (student liked the course):
+the midterm average was pretty low but the final was ok
+
+Review 111 (student disliked the course):
+Pretty much a more rigorous version of grade 12. Keep up with assignments or you're fucked.
+
+Review 112 (student liked the course):
+No matter how much fun you have learning the material, the exams are tough and often a little further from the material than you'd expect. Go to lectures and problem sessions !
+
+Review 113 (student disliked the course):
+i failed the midterm. that was the first thing i've ever failed in my life. midterm was absolutely brutal with an average of 48% amongst all the classes. the final however, was way easier and very fair. looking back, this course is just review of grade 12, however, they make the midterm brutal for no reason. if you fail the midterm, don't drop the course. you can do it!!!
+
+Review 114 (student liked the course):
+interesting. be careful of the midterm, usually screws ppl over (including me). you can fall in either two situations: - easy midterm = hard final - hard midterm = easy final + bell curve (i fell in this scenario) pulled off a 70 tho, idk how tho. i was at a 50 at midterm lmao
+
+Review 115 (student liked the course):
+Sedra Smith recommended me this course so I don't end up like one of those pig 4 students. I did very well and am happy about my life choices.
+
+Review 116 (student liked the course):
+Basic calc 101
+
+Review 117 (student liked the course):
+Harder than you might think. Elevates high school concepts to a much tougher level. Do all the recommended problems.
+
+Review 118 (student disliked the course):
+Mostly review with some new tricks before the midterm but I took it too lightly before the midterm so it didn't go too well. Have to do a lot of practice like any math course even though it may seem to be easy/more review at the start compared to other courses
+
+Review 119 (student disliked the course):
+I got credit for this course but declined, thinking I would just breeze through it. I was wrong. This course (especially the midterm) focuses a lot on theory. I was also overconfident about the midterm and ended up getting a terrible mark. Don't make the same mistake. Also, I studied my ass off for the final, only to get destroyed by the physics based questions. Only take it if you have to, or if you have taken physics before because you will need to attend class to understand the concepts.
+
+Review 120 (student disliked the course):
+Mainly review from high school, material is sometimes uninteresting
+
+Review 121 (student liked the course):
+Good course but some parts were different from highschool calculus. Midterm was brutal (class avg a little over 60%) but the final was much easier. The final boosted my mark quite a bit. Study hard do the practice questions and you should succeed in this course.
+
+Review 122 (student liked the course):
+Great connection with High School material. Useful material. Be careful with some proofs on the exam.
+
+Review 123 (student liked the course):
+Don't take physics-based; you'll regret it.
+
+Review 124 (student liked the course):
+Basically high school stuff with some proofs
+
+Review 125 (student disliked the course):
+Most of the course is review of high school pre-calc and calc. Useful for reviewing; couple of new things depending on which high school you come from. Easy to fall asleep in.
+
+Review 126 (student liked the course):
+Keep up with the weekly assignments and you'll be okay. Half the stuff wasn't taught at my high school calculus. Don't think you'll know it because you took high school calc. Everyone did.
+
+Review 127 (student liked the course):
+My advice with this course is to be a bit cautious. The first three quarters are basically a review from high school but the midterm was much more difficult than what you would see in grade 12 Calc. Make sure you don't brush it aside, really study!
+
+Review 128 (student liked the course):
+Good introductory course.
+
+Review 129 (student disliked the course):
+I don't like calc. This course was pretty challenging. Very different from HS (regular not gifted or anything) calculus.
+
+Review 130 (student disliked the course):
+Basic math knowledge. Not hard if you have done well in Grade 12 calculus.
+
+Review 131 (student liked the course):
+Beware of the midterm. I did okay but it was a shock for a lot of students! Get used to preparing for tests like a uni student should!
+
+Review 132 (student liked the course):
+Basically the same as high school calculus, with some integral stuff at the end. It's a good introductory calculus course. The final was easy!
+
+Review 133 (student disliked the course):
+boring course
+
+Review 134 (student liked the course):
+Don't underestimate this course. It's different from high school calculus.
+
+Review 135 (student disliked the course):
+Midterm was brutal.
+
+Review 136 (student liked the course):
+Assignments from the textbook, every answer was online. I'd recommend doing the assignments without online aid though otherwise you won't fully understand the concepts, they seem like high school but they're just slightly harder. Easy once you understand a concept, but the end just messed everybody up. At least we didn't have to cover volume of integrals
+
+Review 137 (student disliked the course):
+Literally 4U calculus and vectors.
+
+Review 138 (student disliked the course):
+Don't get too content, especially in the beginning!
+
+Review 139 (student disliked the course):
+The material is mostly a review of high school but the homework and exams can be challenging because of tricky algebra and proofs. I understood everything that was taught in this course quite well but still had trouble sometimes.
+
+Review 140 (student liked the course):
+Do not slack off thinking you can just cruise through using high-school knowledge
+
+Review 141 (student liked the course):
+calculus, you know that, right?
+
+Review 142 (student liked the course):
+You probably slept through high school calculus but you can't do the same here. It is much more proof-based and analytical. The average on the midterm was a 60 and the final doesn't get much better. That being said, it's a very interesting course and I much preferred it to the mindless calculations that we did in high school calc.
+
+Review 143 (student disliked the course):
+Some review from high school, some new stuff. Don't go into this course and let your guard down. The material might be familiar but getting lulled into a false sense of security is going to wreck your midterm.
+
+Review 144 (student disliked the course):
+Remember to do the practice questions.
+
+Review 145 (student liked the course):
+Easy course, said a Hongkongese who studied Calculus in English previously in high school.
+
+Review 146 (student liked the course):
+Course was super interesting and a useful expansion on what was learned in high school.
+
+Review 147 (student liked the course):
+A continuation of High School Calculus, fairly straightforward.
+
+Review 148 (student liked the course):
+lecture is easy but the exam is hard
+
+Review 149 (student disliked the course):
+Weekly assignments, midterm is pretty difficult (got a 55%), final even harder. Do your work, be sure to stay on top of the lecture material and the assignments, and do the readings! They explain a lot of what the professor doesn't have time to write on the board, it's kind of like "prep" material for the assignments / midterms. If you're falling behind, use the first-year resources to get back on track. There's tutorials, TA hours, and office hours for the professors themselves if you can't wrap your head around a specific concept or assignment.
+
+Review 150 (student liked the course):
+not bad, mostly high school calculus review
+
+Review 151 (student liked the course):
+At first this course seems like easy highschool review, but stuff gets crazy in the second half. Don't underestimate it.
+
+Review 152 (student liked the course):
+Largely review and slight extension of high school calculus
+
+Review 153 (student liked the course):
+Some hard assignment questions, but pretty basic if you took calc in Highschool.
+
+Review 154 (student liked the course):
+Mostly a review of high school calculus, with some new stuff at the end. The topics are treated with a lot more rigour than in Grade 12.
+
+Review 155 (student liked the course):
+Easy and fun.
+
+Review 156 (student liked the course):
+Not a very difficult course, but quite useful.
+
+Review 157 (student disliked the course):
+Highschool AP calculus basically
+
+Review 158 (student liked the course):
+I switched from MATH 147 after the midterm, and I found the course to be too applied
+
+Review 159 (student liked the course):
+Easy.
+
+Review 160 (student liked the course):
+Fun!
+
+Review 161 (student liked the course):
+Easiest
+
+Review 162 (student disliked the course):
+high school review of calc. Is good
+
+Review 163 (student disliked the course):
+not too bad. first half is mostly high school material. assignments can be difficult tho
+
+Review 164 (student liked the course):
+Pretty easy course, especially if you've completed IB or AP Mathematics.
+
+Review 165 (student liked the course):
+Important calculus things.
+
+Review 166 (student liked the course):
+First part of the course is review of grade 12 math. Tutorials are helpful, but not mandatory.
+
+Review 167 (student liked the course):
+Review of Calc 4U with a little more of a challenge and an intro to intergrals
+
+Review 168 (student disliked the course):
+Boring course. Basic calculus with some new concepts introduced. Hard assignments.
+
+Review 169 (student liked the course):
+The course was really fun overall!
+
+Review 170 (student liked the course):
+A more rigorous and theorem/proof-based version of grade 12 calculus.
+
+Review 171 (student liked the course):
+Pretty basic stuff.
+

@@ -1,0 +1,370 @@
+Student reviews of MATH 239: Introduction to Combinatorics
+University of Waterloo — collected from UWFlow (student-run course review site)
+Course stats: 540 ratings | 83% found it useful | 26% found it easy | 77% liked it
+
+Review 1 (student disliked the course):
+I don't think this should be a mandatory course for CS majors, and if it is, it should be made much, MUCH less proof-heavy.
+
+Review 2 (student liked the course):
+Rewarding class, put in the work and it's not as bad as people say.
+
+Review 3 (student liked the course):
+personal favourite course in 2b, had mandelshtam as my prof but ended up skipping all my classes and going to jim geelan's section instead. the graph theory part of the course is a bunch of fun little puzzles that you just need to reason around. midterm + final were very fair as long as you know your stuff
+
+Review 4 (student liked the course):
+Very difficult for me. I suck at math, but somehow pulled through. The first half of the course was horrible. I whipped myself back into shape for the second half and passed.
+
+Review 5 (student liked the course):
+Was hard, but not as bad as I expected.
+
+Review 6 (student liked the course):
+Fun course. Midterms and finals were very fair, and the course has very good prerecorded video lectures available.
+
+Review 7 (student liked the course):
+Fun course, but very challenging. It's infamous for all the valid reasons. Most people find graph theory easier than enumeration, but my experience was the opposite. Assignments get slightly shorter and more interesting later in the term; the earlier ones are very grindy. Yes, the midterms and finals are hard. But a decent portion of the questions are predictable based on past exams, with a few straight from the assignments. If you put in the effort and keep up with the materials, it's not a difficult course to pass. But to do well on it, don't put too much hope.
+
+Review 8 (student liked the course):
+Hot take: enumeration was super fun to learn
+
+Review 9 (student liked the course):
+Fun but hard
+
+Review 10 (student liked the course):
+Interesting when you understand what the heck is going on. The midterm actually halved our class size but the final was super easy. The lecture videos were really good to learn from and a lot of questions are stackoverflow-able
+
+Review 11 (student liked the course):
+Lectures videos are great, and notes are good too. Didn't ever go to lecture. Most people will find graph theory easier than enumeration (not me) but don't expect graph theory to make up for any marks lost in enumeration. Assignment questions can be killer at times but you'll get them if you put in the effort. It was a fun and informative course, but will not be useful for all.
+
+Review 12 (student disliked the course):
+Good news and bad news. Good news: the graph theory part is hard, but survivable. Bad news: the enumeration part is 10x harder and barely survivable. This course is the hardest course as of 2B, and the enumeration part is about as useless as chaos theory (and about as hard too). Did I mention this course was hard?
+
+Review 13 (student disliked the course):
+Assignments are really difficult that you have to spend a lot of time trying to think of a solution, I don't think worth doing that way anyway. Tests are just variants of the assignments so just copy the assignment's solutions again and again before the midterm or final then you will be really fine.
+
+Review 14 (student disliked the course):
+hard af, any reviewer that said this course was not a 1/5 in difficult is probably doing URA in pure math research or got citadel 1b
+
+Review 15 (student liked the course):
+I loved this class. A lot of people found it very difficult, but for me it was around the level of 135 (maybe a little easier, actually). The assignments were usually only around 3 questions long, but each question involved a lot of thinking. The midterm was a bit hard (but then again, I didn't study much for it) - the class average was a 53 or something like that (I got a 79), with no curve. But the final was pretty easy to make up for this, and I ended with a 92. The content itself is very interesting and really makes you think! Just make sure you have well-organized notes and you should be fine.
+
+Review 16 (student disliked the course):
+L course
+
+Review 17 (student liked the course):
+Other reviews saying that this course is hard is true and will require some effort on your end. However, it’s not impossible and certainly doable. 239 is very proof-heavy in both parts (enumeration and graph theory). I personally found the enumeration easier, but your mileage may vary. Part of what makes this course time intensive is the weekly assignments (10 in total) in addition to the weekly tutorials which also require a bit of work. Stay on top of things, study smart, and try to enjoy the course as you learn new stuff and you should be fine.
+
+Review 18 (student liked the course):
+Difficult but very interesting and fun. I personally loved the enumeration part, it made me interested in math again.
+
+Review 19 (student liked the course):
+Very interesting topics. Personally I felt the first half of the course a bit harder, but the things we learn was very elegant and mathematically pleasing. The graph theory half of the course was very easy once I got an intuitive understanding of all of the concepts and theorems.
+
+Review 20 (student disliked the course):
+Content is very difficult and non-intuitive. Course is divided in two parts: enumeration (counting) and graph theory. Enumeration isn't too bad once you get generating functions. Graph theory proofs can be a huge pain, and aren't at all intuitive if you don't have a natural knack for them. Still able to do reasonably well, but spent a lot of time on this class.
+
+Review 21 (student liked the course):
+Fun course, I had no idea I would like this material. Lecture videos are really good and I just used them to learn the content. Assignments were a bit tricky, but built off of the material presented in the preceding lectures and tutorial. All midterm and final questions fit into categories of previous ideas and proof methods, so you could expect everything which could be asked.
+
+Review 22 (student liked the course):
+Assignments were super easy but exams were incredibly tough (and the reference sheets are missing a bunch of important stuff so don't rely on them!). We had mandatory tutorial groups to solve weekly problems together which was nice (if you got assigned a decent group). My biggest regret was watching the online videos instead of attending in-person lectures cause Jane Gao's in-person lectures are so so good - she's head and shoulders above the other MATH239 profs so I'd highly recommend attending her section.
+
+Review 23 (student liked the course):
+Took this in Winter 2022. This was my second attempt at the course and I passed! The course was fair and well organized. There were weekly tutorials that we work on as a group and a weekly tutorial meeting to present our solutions. That helped enforce my understanding of the course material on top of the assignments. There were 2 tough assignments but I found the rest to be fair and excellent at helping me understand course materials. The midterm average was low, around 57, but I found it to be very fair and there were no tricky (or any very unfamiliar) questions at all. The exam was also very fair, none of the questions asked were too tough or tricky except maybe for one. I really appreciate how the course was run this term. I found enumeration a bit easier than graph theory. Mainly because I just suck at proof. Although I only found the last chapter on matching and the first few sections related to path and connectedness to be tough to find proof for. Bijective proofs on enumeration were tough but it's not too bad. Some people found this course very interesting and loved it, some did not like it at all. I'm kind of in-between, I found it nice to learn something very different from what I'm used to (linear alg, calc..) and I believe graph theory is very useful for CS. But like one of the other commenters said, I also found it tough to stay focused and put in the work to study in a course with not much applications. If math 239 is not a required course for your degree and you are considering whether to take this or not, I say give it a try. The first week jumps right into bijective proofs so you get a taste of how tough it is right away. Compare this to the first time I took the course in Spring 2021, huge difference. I hated the Spring 2021 offering, I won't go into details about why but you can scroll down and see the reviews people wrote for that offering and on Reddit too. But TLDR: profs in spring 2021 did not bother going on the piazza and helping students, tests were difficult as hell (1 hour for 3 very tough questions), I dropped before the day of Test 3 but the first 2 tests were rough. Assignments were biweekly instead of weekly like in Winter 2022, so some course contents weren't even covered on assignments but on tests instead and they were tough as hell. Spring 2021 offering of math 239 made me hate the course. But Winter 2022 changed my mind. Everything was done so well in Winter 2022.
+
+Review 24 (student liked the course):
+This is a tough course, I personally found the enumeration half to be easier, but it was much less interesting. The second half, graph theory, was a bit tougher for me but at least the content was interesting. Some of the assignments were hard.
+
+Review 25 (student disliked the course):
+God I hate this course. I found it hard to motivate myself to learn anything without applications. Hopefully CS341 will provide me with those applications...
+
+Review 26 (student disliked the course):
+Didn't understand a single thing in the first half of the course. Graph theory was much better, but overall an useless course for math major
+
+Review 27 (student liked the course):
+The first math course I actually enjoyed. Midterm is brutal but final is a bit more manageable.
+
+Review 28 (student liked the course):
+prereq for cs341, its hard but good if you do pure math
+
+Review 29 (student liked the course):
+First half was counting which many people don't like and find hard to do, to be quite frank - it involved a ton of creativity to get the bijections, but I did not personally find it all that hard, just relax yourself and take your time and give yourself time to answer the questions as they will take some time The graph theory portion was more interesting and was fun, though it too got more difficult at the end. You may need to set significant time aside for the assignments and to get this done..
+
+Review 30 (student disliked the course):
+This course was not easy. Was it interesting? I think it depends on the person. I can see how you might find this interesting, although it wasn't particularly interesting myself. If you're taking this course online, prepare yourself. Study harder than you normally do. You'll thank me later
+
+Review 31 (student liked the course):
+Took it blended in Fall 2021 (online course with in-person tutorials). Questions on piazza were answered reasonably quickly, and I personally found the tutorials the most helpful resource of the course. Enumeration portion I found very challenging and the exam was difficult (60 average), however the graph theory was easier and I liked it a lot more. Overall, not an easy course but manageable if you practice and ask questions!
+
+Review 32 (student liked the course):
+Fairly challenging course with interesting concepts. Personally enjoyed enumeration more than graph theory, but for the majority graph theory is apparently easier. Took it blended Fall 2021 and was a solid 1 day/week kind of course. Tutorial + lectures + groupwork + weekly assignment easily doable in 10 - 12 hours. The enumeration exam was pre difficult, and our class avg ended up 60.
+
+Review 33 (student liked the course):
+Graph theory was fun! I think I am going to take CO 342 in third year!
+
+Review 34 (student liked the course):
+Was ran much better than the spring counter part for fall 2021. Piazza was well populated, content was laid out nice and was easily understandable. Tutorial sessions were great to properly align yourself to what the new content was teaching, and the content itself was very interesting! Unpopular option, but I don't like the course was as hard as many people say it is. The content is confusing at first glance, but utilizing office hours, piazza and tutorials helps to clear up the confusion (especially if your prof was great!), the future of this course looks promising given the change in professors teaching it.
+
+Review 35 (student disliked the course):
+This course seemed to be great in previous offerings, I don't know what happened in Spring 2021. Re-used lecture videos, timed tests that were nothing like the practice problems, and silence on Piazza for half the term. Marking was brutal and extremely inconsistent. The only interaction we had with the staff was in office hours. Olya, Cheolwon, and Jorn all had good sessions, while Ashwin just vaguely restated people's questions and got annoyed when they didn't understand.
+
+Review 36 (student disliked the course):
+Just a disclaimer: I took this course in Spring 2021 with Ashwin Nayak, Chelweon Heo, Olya Mandelshtam and Jorn Van Der Pol - pray you never have to go through what my term-mates and I had to. This was easily and by far the absolute worst course I have ever taken at Waterloo, with the worst professors I ever had the displeasure of interacting with. The words arrogant, cold, and ignorant come to mind when I recall interacting with the professors for the most basic help during Office Hours, which were the only time we could contact these people as they abandoned Piazza for the first half of the course, only returning once half the class failed their "test", which was essentially a midterm on steroids - 1 hour for three very difficult questions unlike anything we'd ever seen in the lectures (which they didn't make), course notes (not them either), assignments, or practice problems in terms of difficulty and style. Extremely harsh marking with absolutely no mercy. We were all basically teaching ourselves this entire course, which in a regular term is difficult enough, only to be thrown curve balls at every opportunity by the professors and teaching staff. Never have I felt such a passionate disdain for such a course in Waterloo or school in general. I've had previous anxiety problems resurface because of the gross negligence of the professors who taught this course - do avoid them at all costs. TLDR: Arrogant, neglectful professors + have to teach yourself the entire course from pre-recorded, barebones lectures + insanely hard tests with terrible marking distributions + extremely harsh marking = a very, very bad time in Spring 2021.
+
+Review 37 (student disliked the course):
+Craziest course ever. I had never been able to understand any piece of the knowledge since unit 1. And I haven't found how those things are helpful yet.
+
+Review 38 (student disliked the course):
+this was my last straw literally; no prof/instructor help; uncooperative staff; no prof on piazza/literally on our own; pre-recorded lecs; hard af questions; no curving even though most people are failing. I took this course in my 2A but a pal who took it in 4B FAILED this course so yeah; have fun
+
+Review 39 (student disliked the course):
+No instructors or profs til 2/3rd way of the course lol. cant believe I paid a 1000 bucks for this, what a joke
+
+Review 40 (student disliked the course):
+Hard course that was useless for CS students. Hopefully it gets better in-person since the online lectures were useless for solving the assignments and exams
+
+Review 41 (student disliked the course):
+I don't know what was going on this term... Until halfway across the term, the professors weren't on Piazza. The format of the course seems to have been reworked completely from previous online offerings (for no good reason, since previous offerings were apparently great). There were a lot more timed tests. Presumably to stop cheating, but I would guess it would help cheaters who were able to get a question paper beforehand, because if you had seen the questions before the super-strict time limits might seem a lot more reasonable. Even profs had trouble solving practice problems in office hours. The lectures were all old and reused from previous terms, which were great. I really enjoyed the content. But the assessments - especially the timed exams - were so stressful and draining that I came away disliking the course despite being interested in the topics.
+
+Review 42 (student liked the course):
+Good course, poorly organized. I feel like each term they somehow make it worse with the format. I felt like the first part (enumeration), while interesting, did not go deep enough. Graph theory was really cool too. This term they decided they weren't going to monitor Piazza at all, until about 2/3 of the way through the term, when they finally changed their mind. Tests are hard but not as bad as ppl say (everyone just likes to whine about how hard it is, but the difficulty is reasonable).
+
+Review 43 (student disliked the course):
+Very difficult course. Online offering of this course consists of watching prerecorded lectures, which in my opinion were of high quality and concise. However, these videos and the course notes are the only materials you can learn from. The practice problems do not come with solutions (only the tutorial problems have solutions). The instructors do not answer questions on Piazza, instead they host office hours where you can ask your questions. Make sure to go to these office hours early in the week and not the night before an assignment is due. Assignments were difficult due to inconsistent marking schemes and poor communication from the instructors. This is caused by the very limited communication between instructors and students since instructors seem to communicate only through office hours and private e-mails. The course also has three midterms (or tests, as they call it). These tests aim to assess students' knowledge of the previous 3 or 4 weeks content. Many students including myself found the time limit (60 minutes + 20 minutes for uploading) to be not enough for these types of questions. TLDR: - Learn through pre recorded lectures (high quality and concise) and course notes (if you want to read them) - Instructors do not answer questions on Piazza - Limited communication between instructors and students leading to miscommunications (although this is appearing to improve now) - Difficult assignments and tests (expected because this course is quite difficult overall)
+
+Review 44 (student liked the course):
+No instructors on Piazza at all?!
+
+Review 45 (student liked the course):
+I truly loved the course, and thanks to this course, I learned the spirit of Math and the art of solving difficult problems. The course is definitely the most challenging Math course you will ever take by the time you take this course (i.e., 2nd year). Although, it is recommended to take this during 2b with the stats knowledge you learned from 2a, I went with this course straight away in 2a. I would say the knowledge of stats would have helped me in the very beginning for enumeration, but really, it ain't that much, so do not worry if you are taking it in 2a. Now the course content - SUPER interesting. The enumeration part was very challenging and very rewarding as well. I especially loved the bijection and strings/ambiguity parts. I found the problems to be very challenging at first, but you will find yourself slowly building the intuitions -- which was super rewarding! I personally found the exams (3 exams total) to be very straightforward compared to assignments (the assignment average marks are around 70-90 in enumeration, and 40-60 in graph theory). I wouldn't graph theory isn't any easier than the other, but it sure is interesting and the questions can be "kinda" predictable once you practice a good chunk of it. Overall, super fun and super difficult!
+
+Review 46 (student liked the course):
+Loved it! Instructors were very responsive to questions on Piazza. Exams were fairly reflective of course content. Loved the content, though I wish solutions to practice problems were posted. Builds on a lot of content from MATH135 so it was a bit difficult for me at the beginning, but graph theory (the second half) seemed to be easier [than enumeration] for most people in this course.
+
+Review 47 (student liked the course):
+Easy, fun course! I found the graph theory part a little rote and boring compared to the enumeration, but it was also easier.
+
+Review 48 (student disliked the course):
+This course was interesting but ain't that easy. You really have to understand every point of every concept and you just can't avoid extra problems just because they are extras. Learn to solve the problems on your own with the least professor's help. They don't make midterms and exams easy. And hence, get less involved during that term :(
+
+Review 49 (student liked the course):
+Super interesting course with tons of new concepts. The assignments and exams were HARD though, even with the online term. Be ready to spend lots of time on this course. Exams were made of randomly chosen questions, with each exam focusing on 1/3 of the material. As for grading: Best 2 out of the following 3: 10 assignments throughout the term worth 33% (drop the 2 lowest), midterm 1 33%, midterm 2 33%. In addition, final exam worth 33%, and a trial run for the exams worth 1%, basically a free mark.
+
+Review 50 (student liked the course):
+MATH 239 Spring 2020 was offered online due to the pandemic, and it was very well-organized and effective. Compact recorded lecture videos were posted weekly, and a set of well-written lecture notes were supplemental to the videos. Tutorial problems were posted weekly as well with videos explaining the solutions. The content, particularly the part on enumeration, is very useful and fun. The latter part of the course, wihch is on introductory graph theory, could appear a little offputting. It has a pure math vibe, but the concepts aren't linked as tightly as analysis texts. New definitions seemed to spring out of nowhere, but this is to be expected for an introductory course.
+
+Review 51 (student liked the course):
+Graph theory was really difficult until you start seeing the patterns.. and even then it was still pretty difficult. Overall interesting content, but took a bit to fully absorb the proofs and rewire my brain to be able to come up with proofs. Go to class and take notes. Midterm and final were a lot easier than assignments.
+
+Review 52 (student liked the course):
+The course is very interesting and split into enumeration and graph theory. My main problem was that the notes lacked so much important information and concepts. If you skipped class, you wouldn't be able to pass.
+
+Review 53 (student disliked the course):
+Do the extra problems
+
+Review 54 (student liked the course):
+This course has a ton of super interesting problems, especially when you get to the graph theory half of the course. It's not easy, you'll need to exercise a lot of critical thinking and a bit of creativity, but solving a problem feels so good and rewarding
+
+Review 55 (student liked the course):
+The hardest part of the course is the first assignment.
+
+Review 56 (student liked the course):
+Tough course, needs to practice constantly. The material itself isn't too bad but you need to learn how to do the questions kinda separately from the lecture notes, because in class they would teach you proofs for the theorem in class but not the actual practice type of questions. I do like the course notes but they are rather short and didn't have answer to the practices
+
+Review 57 (student liked the course):
+Not easy, almost got rekted, gg,
+
+Review 58 (student liked the course):
+Well...this was a hell of a course. The first half about counting is really not bad once you get the hang of it, whereas the graph theory has many tough proofs. Study expecting the worst and you will do fine on it. Midterms and final very fair, even the assignments as they're supposed to be more challenging. Don't give up!!
+
+Review 59 (student liked the course):
+This class was very interesting but it could be difficult for some students who aren't used to a lot of proofs. The first half of the course is combinatorics and is more calculation-based and the second half is graph theory which is more proof-based. The final exam was really hard!
+
+Review 60 (student liked the course):
+One of my favorite math courses at UW. The first half focuses on enumeration problems (e.g. set theory, generating functions), while the second half focuses on graph theory. Course notes are solid and the course is well organized.
+
+Review 61 (student disliked the course):
+HATE HATE HATE HATE this courseeeee. Enumeration is fine, graph theory is fucking terrible. I'm not good at algebra so I found it super hard. If you ain't good with proofs, you will find this hard. The final for my year was EXCRUCIATINGLY hard. We got a graph with 24 vertices and so many edges that were intersecting. You'll know when you take this.
+
+Review 62 (student liked the course):
+Very well-run course, and also really interesting. The assignments were challenging, and the exams were fair.
+
+Review 63 (student liked the course):
+Cool course, kinda easy.
+
+Review 64 (student liked the course):
+Fairly easy introductory course covering principles of enumeration and graph theory. Assignments and problem sets from the instructors and from the course notes are noticeably harder than the midterm and final but are great to study off of. Course notes are decent but rarely needed as a reference because the lectures were usually pretty comprehensive.
+
+Review 65 (student disliked the course):
+Fuck this course.
+
+Review 66 (student disliked the course):
+After taking math 235/7, this course was so much harder.
+
+Review 67 (student liked the course):
+A good introduction to another field of mathematics
+
+Review 68 (student disliked the course):
+.
+
+Review 69 (student liked the course):
+Choked pretty hard on the finals but the course has really cool concepts and I would definitely done better if I had the inclination.
+
+Review 70 (student liked the course):
+Great if you get it. Helps count timbits.
+
+Review 71 (student liked the course):
+Some concepts in this course can be hard for some people, but it's still a great course all around, and is well run. Introduces key concepts like graph theory.
+
+Review 72 (student liked the course):
+Good course. Assignments are really intellectually challenging but interesting. I liked the combinatorics and graph theory, and was merely okay with the power series part.
+
+Review 73 (student liked the course):
+Not heavy on the applications.
+
+Review 74 (student disliked the course):
+This one is a doozy. The course is split into combinatorics, generating functions, and graph theory. The course notes are incredibly dry and provide little to no help. They include exercises, which of course don't have solutions. What's missing is a lot of the intuition behind concepts and why they're useful. Graph theory is relatively easy. This course is proof heavy.
+
+Review 75 (student liked the course):
+People generally either say it's a super easy course a really difficult one. I found it to be easy. The first part is easy algebra, and the second is basic proofs, like MATH 135 in first year. I think it's an interesting course that gets you to think about the world in a different way.
+
+Review 76 (student liked the course):
+Do the assignments.
+
+Review 77 (student liked the course):
+Go to class.
+
+Review 78 (student disliked the course):
+This course makes you feel really in over your head. If you don't have a good math background it gets tough. First half is combinatorics, second graph theory. Some people say graph theory is easier, but graph theory will consist mainly of legit proofs while combinatorics is mostly calculation based proofs with a general pattern you can apply to each problem. For graph theory you have to really dig for specific theorems to help you out. Weekly assignments can probably be said to be harder than the midterm/final.
+
+Review 79 (student disliked the course):
+I suppose some of the things we learned are applicable, but damn was it painful. Expect a ton of studying and hard work to get through this course.
+
+Review 80 (student liked the course):
+I like the combinatoric part of this course. I found it really easy after doing some exercises. However, by the end of the semester, I start to like the graph theory. This course absolutely effect my future decision!
+
+Review 81 (student liked the course):
+Helps to abstract tougher CS questions down to simpler ones, helping with concepts like NP-complete problems
+
+Review 82 (student liked the course):
+The first half of the course is not hard. If you practice a lot, you can definitely ace the midterm. But the second half graph theory is pretty tough. It has lots of proof, but I found it's really interesting and some stuff can apply to real life.
+
+Review 83 (student liked the course):
+The assignments were challenging but rewarding. They really help to integrate the concepts of the course. I enjoyed the graph theory section of the course. I thought I had a good concept of the course at the end, but unfortunately got lower marks than expected in the midterm and finals. I suspect it was due to bad proof formatting.
+
+Review 84 (student liked the course):
+Lots of interesting proofs and concepts, though not necessarily relevant or immediately useful. If you can't do proofs, this course will be extremely challenging. If you can, it's really easy. The assignments require a lot of time and thought. Probably around as hard as SE 212.
+
+Review 85 (student liked the course):
+People say it's hard but for me it was one of the easier and more interesting math course I've taken. If you get a solid handle on the intuition behind the concepts of this course it won't be hard at all.
+
+Review 86 (student liked the course):
+Good variety of content and brand new material. New types of proofs are interesting.
+
+Review 87 (student liked the course):
+One of my favorite courses, especially the graph theory part, I formalizes nicely what one could already perceive. Cool proofs :D
+
+Review 88 (student disliked the course):
+Praying to pass cuz I literally failed the midterm.... This course is pretty hard to me, but it depends on you. Some of my friends got high 90s without too much effort and they are willing to learn more CO because this course was a great start. You learn about counting stuff and then graph theory. Proof heavy course.
+
+Review 89 (student liked the course):
+Graph theory was very interesting.
+
+Review 90 (student disliked the course):
+Struggled quite a bit. Failed the first time with a mark of 45! Then re-took and got a 66. All I have to say is DO THE ASSIGNMENTS YOURSELVES! The assignments take a lot of time but doing the assignments yourselves is the best way to pass this course.
+
+Review 91 (student liked the course):
+interesting but hard course.
+
+Review 92 (student liked the course):
+PEI IS GOD.
+
+Review 93 (student disliked the course):
+Very difficult course, struggled a lot, just passed after hours and hours of studying. Attend the right tutorials, they help a lot. Also choose the right professor. Take this course only if you like counting theories and stuff. But if it is mandatory, then no comment :(
+
+Review 94 (student liked the course):
+fun course playing with combinations and graphs, useful for all CS students. (hey Luke, you are not in the prof list!)
+
+Review 95 (student liked the course):
+I began to hate the course at the beginning but the second half part of the course (graph theory) was actually useful and fun. They are two completely different topics and I don't even know why they're part of one course.
+
+Review 96 (student disliked the course):
+This class is very hard, it covers both counting and graph theory. The average of all sections was in the low 60s. This was after they shifted weight away from our awful midterm with an average in the 50s.
+
+Review 97 (student liked the course):
+Made me decide to do C&O as my major :) Many people will tell you it's hard, don't listen to them. Just do the assignments and make sure you actually 'DO' them - i.e. not just complete but actually understand the methods and proofs, and study enough (read over the assignments, read over the definitions and important theorems, understand them all-should take no more than 2-3 days if you have been going to class and doing assignments) for the midterm and final, and you get an A. No problems!
+
+Review 98 (student liked the course):
+Make sure you read the assignment solutions - you'll discover new proof techniques that'll save you lots of time on exams.
+
+Review 99 (student liked the course):
+Interesting and useful
+
+Review 100 (student liked the course):
+One of the easiest courses taken in my university career. Everything in the course revolves around 1-2 conceptual ideas that takes time to get. Spend a few good hours of your time before the midterm and exam will ensure a fun course and good grades.
+
+Review 101 (student liked the course):
+Graph theory is useful later on. Combinatorics.. just sucks.
+
+Review 102 (student liked the course):
+Interesting course, some useful concepts about Graph Theory
+
+Review 103 (student disliked the course):
+Do all the assignments, befriend the prof so you can get extra help.
+
+Review 104 (student liked the course):
+difficult course but usually a significant curve at the end. tutorials really help!
+
+Review 105 (student disliked the course):
+The course for me its pretty hard. Make sure understand the topics before move on!
+
+Review 106 (student liked the course):
+A hard but fun course. The course started off with combinatorical proofs which took a while to get. Then it got fun until the last month or so. Graph theory proofs are truly unmechanical, you got to practice every proof that you can get your hands on, since there is no systematic way of proving them. Lastly, if you hate proofs, you're in for a surprise...
+
+Review 107 (student disliked the course):
+Proof heavy course. Going into the second part of the course on graph theory, there are no 'mechanical' answers to questions. I found the first half of the course quite simple (counting problems), so if you find it easy, I suggest you work hard for the midterm. The course notes are close to useless, so I suggest you pick a good prof. 10 assignments when I took it, as well as iclicker participation marks. Course was difficult but not impossible.
+
+Review 108 (student liked the course):
+Course is quite easy, I wouldn't call material super challenging. The only hard topic is at the very end of the course (MST's and matching). Plus I really hate when they devote such a small fraction to assignments. Easy 100 (or 90+).
+
+Review 109 (student liked the course):
+Difficult, but really interesting material. Divided into enumeration and graph theory, which are completely separate.
+
+Review 110 (student liked the course):
+A very interesting course exploring a new branch of mathematics. Assignments and exams were fairly typical for a math course, but with many more proofs than calculations. Knowing proof techniques and being able to write clear, logical proofs is a significant advantage.
+
+Review 111 (student liked the course):
+I really enjoyed this class, despite it being quite difficult. Graph theory is fun, but enumeration is challenging.
+
+Review 112 (student liked the course):
+Interesting course but challenging! You can do it
+
+Review 113 (student liked the course):
+Course isn't entirely useful for real life application, but is quite useful in future math courses. Difficult but interesting course.
+
+Review 114 (student liked the course):
+i like CO lol
+
+Review 115 (student liked the course):
+VERY interesting course. Highly recommend choosing this one out of your 3 options for that compulsory half credit. Graph theory (weeks 5 and onwards) is probably one of the most interesting things I've learned at UW.
+
+Review 116 (student liked the course):
+Graph theory is usually easier.
+
+Review 117 (student liked the course):
+Chances are, you'll find one half of the course really easy and one half really hard. Don't get discouraged like I did if the first half goes really badly!
+
+Review 118 (student liked the course):
+Good.
+
+Review 119 (student liked the course):
+Go to all the tutorial hours, and just work through the assignments there. Study the course notes carefully - they're very well written and useful.
+
+Review 120 (student liked the course):
+It's a useful course. It's actually extremely interesting because many of the topics can be applied to the real world (esp graph theory). But.. it's a difficult course. Esp the proofs (10x harder than math 135 proofs).
+
+Review 121 (student liked the course):
+The material is really hard. Do lots of practise questions
+
+Review 122 (student liked the course):
+Don't get thrown off by the change between graph theory and combinatorics after the midterm!
+

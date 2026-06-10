@@ -1,0 +1,265 @@
+Student reviews of CS 240: Data Structures and Data Management
+University of Waterloo — collected from UWFlow (student-run course review site)
+Course stats: 633 ratings | 61% found it useful | 58% found it easy | 56% liked it
+
+Review 1 (student liked the course):
+The first half of the course focuses on mathematical proofs relating to algorithm analysis. The amount of content grows quite a bit in the second half but the difficulty of the content drops. The content itself is probably the most useful among the other CS2XX courses because of the algorithms and data structures that can be directly used in interviews.
+
+Review 2 (student liked the course):
+:)
+
+Review 3 (student liked the course):
+Fairly proof-heavy in the first half, and content/memorization-heavy in the second half, but the assignments get easier as the term goes on, and the final was better than the midterm.
+
+Review 4 (student liked the course):
+the "useful" rating for this course really gotta go up
+
+Review 5 (student liked the course):
+Hard. Lots of proof required
+
+Review 6 (student liked the course):
+Interesting and useful content, but midterm marking is RNG based on TA. Assignments are long but useful to learn the content.
+
+Review 7 (student liked the course):
+Challenging course. Ensure you start assignments early, stay on top of readings, and do lots of practice before exams!
+
+Review 8 (student disliked the course):
+It is super annoying that lectures don't prepare you for assignment and midterm questions. However the later half of the course and the final make up for that a little bit. I also wish that programming questions take a larger proportion cuz those were fun and more useful
+
+Review 9 (student liked the course):
+Probably the most challenging 2nd year CS course, but the contents are extremely useful and interesting. Exams and assignments are hard, but doable with lots of practice. The contents get harder as the term progresses, but the averages go up. Don't ask why. Stay up to date with lectures, do the tutorial questions, try to understand the materials and the logistics behind them, and review with past midterms/finals. You'll be fine.
+
+Review 10 (student liked the course):
+This converged my life to log n
+
+Review 11 (student liked the course):
+Introduces data structures and algorithms that will be relevant in future courses and LeetCode interviews. Didn't enjoy runtime theory and proofs that are only useful in the real world in niche situations. Overall, a very easy course that teaches a lot. Also, don't go to lecture - it's a waste of your time and the slides are more than sufficient.
+
+Review 12 (student liked the course):
+Very difficult but foundational course. Concepts are super useful, proofs.. not so much. Extremely proof based course with unexpectedly time-consuming programming exercises sprinkled in worth 2% each. Wish they focused more on how to implement some of the data structs/algos presented instead of the math behind them. Midterms and Finals prep are super grindy like every other proof based course.
+
+Review 13 (student disliked the course):
+The content for the course is pretty interesting. You get to learn about a lot of different data structures and algorithms. The assignments are pretty easy to get high marks on, but the midterm and final are pretty tough. You should definitely attend lectures for this class because some of the data structures/algorithms are way easier to understand in lectures than from just the slides. Compared to either, the course notes are terrible for learning the material, they are written like Calc course notes (very mathematical and hard to understand from reading).
+
+Review 14 (student disliked the course):
+Hardest CS course ever. Barely scraped a 70. ALL MATH. Literally makes you prove using summations and stuff that a nested for-loop is O(n^2).
+
+Review 15 (student liked the course):
+Definitely the hardest course of 2B for me, but maybe that's just because I took it over coop. Very math-heavy. The content got harder as the term went on but the assignments got easier (don't ask me how). The programming questions are really stupid though (they make you do a lot of really dumb things that theoretically make sense but are hard/impractical to put into code, and are very vague regarding the requirements) and should probably just be tossed. But there hasn't been any course that's made me go "holy shit, that's so fucking smart!" as many times as I did during this one. Overall very interesting and useful. I wouldn't have gotten my second co-op job (I had to use hashing during the interview) without it.
+
+Review 16 (student disliked the course):
+Very useful for COOP (since you'll need to know data structures) but this course is alot of work and quite difficult.
+
+Review 17 (student disliked the course):
+Useful, yes - to some extent. But I was not a fan of the course structure and assignments. The actual concepts you learn like hashing and pattern matching are super useful but they throw in a ton of math/abstract stuff in there as well. I also wasn't a fan of the online teaching style and low effort by instructors (W22).
+
+Review 18 (student disliked the course):
+This course kinda felt like new modules don't build on previous ones. One week you're learning about dictionaries and the next you're learning about compression algorithms, and they're in their own content bubble that doesn't depend on knowing previous info. idk it just feels like brute force memorizing instead of getting deep insight into a single topic. the data structures/algorithms are useful though.
+
+Review 19 (student liked the course):
+I hated the course at first, but after the midterm it got a lot better. Most of the lecture videos suck (depending on who made them), in person lectures were much better. The lecture slides also had a lot of typos in them, and at times were unclear. Assignments required a lot of time and thought.
+
+Review 20 (student disliked the course):
+This course is very hard, many different data structures and algorithms are studied and many different proofs are done with them. It can get hard to understand at times, so it's important to do assignments and ask questions. Be prepared for the exams as there are so many things you need to remember and understand.
+
+Review 21 (student liked the course):
+First half of the course was brutal but second half was actually quite interesting. Petrick is an awesome teacher: even though we had access to online lectures, I still attended some of his in person ones because he went through a lot of examples and clarified any misconceptions.
+
+Review 22 (student disliked the course):
+Some interesting concepts in the course notes. Marking scheme is often pedantic.
+
+Review 23 (student disliked the course):
+lots of algorithm proving
+
+Review 24 (student disliked the course):
+Did not enjoy this course, I much preferred algorithms to this course, as I found the proofs and reasoning within CS341 to be way more intuitive and easier to understand compared to this course.. Expect to spend some time to do the assignments, and to review the proofs to understand what is actually going on
+
+Review 25 (student liked the course):
+This course is definitely harder than i expected. Lot of DS and Algo stuff. Assigns are ok but quizzes and exams are really hard to pass.
+
+Review 26 (student disliked the course):
+Literally failed cuz of a stupid midterm. The first half of the course killed me. The second half was better. Maybe I'm just dumb idk.
+
+Review 27 (student disliked the course):
+On the mini-quizzes (where you know your mark immediately after taking them), some of the given answers were wrong and had to be corrected afterward. This happened several times and bothered me more than it should.
+
+Review 28 (student liked the course):
+Hard course especially in the first half if you are not proficient in proofs. Second half was more about understanding how various algorithms worked and was much more interesting and easier to do than the first. Very useful for interviews.
+
+Review 29 (student liked the course):
+Hard but a bit rewarding. Probably more useful in academia than for interviews, but a good preparation for upcoming algorithms courses.
+
+Review 30 (student liked the course):
+The course material itself was quite interesting. Online lectures were well organized and presented, with many (often close to 10) short videos per week each covering a small topic. A pdf of course notes was also available and was useful as additional reference. The assessments though. Assignments were VERY long, 5 of them @ 7% each, and took me >10 hours each time. There were also 5 minitests (basically quizzes) @ 2% each, although these allowed for unlimited tries. They took me multiple tries each though. The midterms and final (25% each for 2 MTs, 30% final) were open book, untimed midterms and we were given a bit less than a week for each. The instructors said each time, the midterm/final was designed to be completed in a normal timespan (2 hours/2.5 hours) plus a bit extra for formatting in Latex. Each time the given time was a gross underestimate, at least for me. I easily took >10 hours for each midterm to just do the questions and >15 hours for the final. Be sure to allocate time, the questions are VERY hard.
+
+Review 31 (student liked the course):
+Very useful course, it's like "How to Leetcode 101". Content isn't too hard, but the exams are heavy and can be difficult if you don't study for it. Took it in Winter 2020, so the online content can be somewhat dry. Textbook wasn't extremely needed, most of the content (including visualizations and simulations) are available online for free. Overall, good course, and useful.
+
+Review 32 (student disliked the course):
+Mostly useless, but I happened to land a co-op that utilizes a lot of the DFA knowledge.
+
+Review 33 (student liked the course):
+Most of the time I spent on this was debugging
+
+Review 34 (student disliked the course):
+I don't know why but it seems like they are marking the assignments/exams extremely strict, so I don't think it's an easy course, because there are a lot of things you can miss here and there. The midterm is like 65-68% median mark. It is probably useful to a certain extent but the way they do the questions and proofs is very bothersome. I would probably better off doing Leetcode than this course.
+
+Review 35 (student disliked the course):
+smok quad trees, g g
+
+Review 36 (student liked the course):
+The first half of the course was pretty hard for me - pay attention and go to lectures, it may seem easy in the first class, but it will probably be harder later on. The second half of the course is almost completely computation-based and was extremely easy! :) Make sure to keep up with assignments and stay on top of material, like with any other CS course.
+
+Review 37 (student liked the course):
+A really fun and useful course to learn about interesting data structures. Unfortunately I didn't personally find it very applicable to the workspace, but it nonetheless added to my general understanding of computer science. The beginning can seem quite tough but as it progresses it becomes easier, especially the last few chapters which are only computation. Midterm and final both very fair.
+
+Review 38 (student liked the course):
+Extremely important course whose topics show up frequently in other courses, the workplace, interviews, etc. It serves as an excellent introduction to common data structures and algorithms. I would say it's one of the more challenging CS courses I have taken, but it's well worth the effort.
+
+Review 39 (student liked the course):
+hard course but probably worth it
+
+Review 40 (student liked the course):
+I found this course to be a bit dry. Some of the data structures covered were weird and don't seem to be actually used in the real world. The proofs were hand-wavey and aren't done properly. But on the bright side, this course really makes you think in a theoretical way about data structures and algorithms and the skills taught are absolutely necessary for any potential software developer.
+
+Review 41 (student liked the course):
+Great course. Learned quite a bit.
+
+Review 42 (student liked the course):
+Everything was hard :'(
+
+Review 43 (student liked the course):
+Need to spend some time on it but it's an interesting and useful course
+
+Review 44 (student liked the course):
+I took 240e with Ragde. We approached data structures from a persistent (immutable) setting. It was a little disorganized, and at times was difficult to follow, but the content we covered was pretty interesting (amortized analysis, streams, randomized algorithms)
+
+Review 45 (student liked the course):
+Enriched course was fun. Overall, an important but difficult course. Assignments and lecture notes were very helpful.
+
+Review 46 (student liked the course):
+The midterm was very difficult and I failed it miserably, and don't be surprised if you do bad on the midterm. If you buckle down and study everything for the final, you should do ok. Although the spring 2017 offering seemed much more difficult in comparison to other terms. A lot of people say that the midterm is hard but the final is easier since there is more computation than proofs.
+
+Review 47 (student liked the course):
+I took the Enriched version of this course under Troy Vasiga. The course covered a lot of concepts that were really useful, such as self balancing trees, splay trees, compression, pattern matching, dictionary structures, and a lot more. The enriched course by far the math heaviest course in 2B, so be ready for a lot of statistics.
+
+Review 48 (student liked the course):
+Very useful course, teaches you so much. Not easy at all!
+
+Review 49 (student liked the course):
+Assignments can have tricky questions requiring some creativity
+
+Review 50 (student disliked the course):
+.
+
+Review 51 (student liked the course):
+It actually gets less theoretical as the course goes on. Practice doing the algorithms and you will get a good mark on the final.
+
+Review 52 (student liked the course):
+Great course for understanding algorithms, but the data structures introduced can be somewhat obtuse and difficult to understand, especially when there are obviously better, more efficient solutions on offer (I'm looking at you, range trees)
+
+Review 53 (student disliked the course):
+Great course that's very important for any CS/SE student, BUT the workload is insane. Assignments took forever, midterm/final were insanely long and rough. Content is interesting though.
+
+Review 54 (student liked the course):
+Good course, very useful material. The exams and assignments focus a bit more on being able to remember and perform certain algorithms by hand with perfect precision, something that isn't at all important in real life. Could do with more questions that test understanding by asking for extensions of the algorithm and less doing things by hand. One or two of the assignment questions were far too difficult and nobody I know solved them correctly and without the internet. More programming questions on the assignments would also be nice. The assignments also take a LONG time.
+
+Review 55 (student liked the course):
+A very interesting course. It starts out hard, but gets easier at the end, as long as you take the time to learn to perform the algorithms. The assignments are great practice for the midterm and final.
+
+Review 56 (student liked the course):
+2nd most useful course I've taken so far at UW, behind CS246. The quality and quantity of things learned in this course is astounding, and it has already benefitted me with interviews. Had a dev interview a week after we learned AVL trees, boom, question on AVL trees.
+
+Review 57 (student liked the course):
+You need a good prof to be good at this.
+
+Review 58 (student disliked the course):
+The midterm was extremely hard, although we were allowed to bring cheat sheet. The class was boring, so I was sleeping in class for most of time, but the material itself was interesting.
+
+Review 59 (student liked the course):
+Good stuff to learn.
+
+Review 60 (student disliked the course):
+Maybe because I have a cs background, but I did not really need to go to class to complete the assignments. Pretty good concepts were taught in class.
+
+Review 61 (student liked the course):
+Useful course with very important structures and patterns you will use in the field everyday
+
+Review 62 (student liked the course):
+Lots of fun! Might have been useful to do more programming to implement some of the data structures and algorithms we learned about though
+
+Review 63 (student liked the course):
+The assignments were brutal. First one took me 10-15 hours and the subsequent ones took me anywhere between 6-12 hours. Midterm was hard but the final was very easy. A course that's initially very theory based but towards the end with pattern matching and compression becomes more procedural and straight forward.
+
+Review 64 (student liked the course):
+Awesome course that introduces you to a variety of data structures!
+
+Review 65 (student disliked the course):
+Extremely hard course. Wow.
+
+Review 66 (student liked the course):
+Material is not easy, but exams can be easy if you are lucky... There was no coding or even pseudocode questions on the exam (for Therese Biedl) and you just have to know how to do all your algorithms by hand, and their run times, and when to use which ones.
+
+Review 67 (student disliked the course):
+useful algorithm course... but hard...
+
+Review 68 (student liked the course):
+Probably the most interesting 2B CS course. 2-3 trees are amazing.
+
+Review 69 (student liked the course):
+Cool course that introduced a wide variety of concepts. Bi-weekly assignments were quite reasonable.
+
+Review 70 (student liked the course):
+Topics are very interesting but sometimes not straightforward. Exam was easier that I expected. You will be fine if you really understand what you learn.
+
+Review 71 (student liked the course):
+I really enjoyed the course content.
+
+Review 72 (student disliked the course):
+to me it's just boring to play around with Order of stuff, no offense but we are not SE students, XD. Sorry that they made it mandatory.
+
+Review 73 (student liked the course):
+The first part of this class was like CS341 lite, which was not very much fun... then it shifts into a class on data structures, which was fun.
+
+Review 74 (student liked the course):
+The math is a pain, but the concepts are fun and have lots of real-world software applications.
+
+Review 75 (student liked the course):
+Super hard, but probably the most useful course you will take in second year
+
+Review 76 (student liked the course):
+Interesting and useful
+
+Review 77 (student liked the course):
+Very interesting, and ultimately extremely useful for cs/se students
+
+Review 78 (student liked the course):
+interesting course and very reasonable workload/difficulty level
+
+Review 79 (student liked the course):
+The course wasn't that easy (at least for me) but make sure pay attention in class and understand all the concepts before move on to next topic!!! and make sure you know how to do the assignments!
+
+Review 80 (student liked the course):
+Course is pretty difficult and stressful, but you do learn a lot.
+
+Review 81 (student disliked the course):
+Use library Text Books, Do assignments, Do not learn algorithms but understand them.
+
+Review 82 (student liked the course):
+Like.
+
+Review 83 (student liked the course):
+One of the most useful courses any CS or SE student will take in university. This is so fundamental that it should help shape the way you think about solving difficult problems in CS.
+
+Review 84 (student liked the course):
+Learn a lot in this course. Don't take it lightly, but very useful.
+
+Review 85 (student liked the course):
+VERY useful. I really enjoyed it. Assignments are also very interesting and not too difficult to achieve 80+. Midterm was kinda tough but the final was more systematic.
+
+Review 86 (student liked the course):
+I found the algorithms and data structures taught in this course gave a very good foundation for the topic. It'll also help you out with technical questions during interviews (if you need more practice)
+
+Review 87 (student disliked the course):
+Data structures are the building blocks of algorithms. This class is very useful for tech interviews -- hash tables come up everywhere.
+

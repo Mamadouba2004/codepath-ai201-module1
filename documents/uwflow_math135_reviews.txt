@@ -1,0 +1,763 @@
+Student reviews of MATH 135: Algebra for Honours Mathematics
+University of Waterloo — collected from UWFlow (student-run course review site)
+Course stats: 1186 ratings | 84% found it useful | 41% found it easy | 78% liked it
+
+Review 1 (student liked the course):
+Welcome to Waterloo Math.
+
+Review 2 (student liked the course):
+pretty useful for the first year, for math courses generally. basically all of them have proofs of some sort and this course teaches you how to handle proofs really easily, basically formulaically. great prof and course notes too
+
+Review 3 (student liked the course):
+Standard introduction to the common proof techniques. Depending on your background in Math, you may find this course very easy or very hard.
+
+Review 4 (student liked the course):
+The course notes textbook make this class a breeze. Make sure you fully understand theorems, lemmas, etc if you want to do well.
+
+Review 5 (student liked the course):
+Easy course, understand all the proof and theories and you will get high mark in this course easily
+
+Review 6 (student disliked the course):
+Pretty challenging course for someone coming out of a standard high school curriculum. Bunch of theorems that you need to know when and where to apply. Logical thinking this course taught is useful throughout your undergrad degree
+
+Review 7 (student disliked the course):
+The most disgusting piece of content that I have ever learnt in my life. This course is so useless and unnecessarily complicated. The lectures are often useless because instead of actually explaining how to solve problems, the whole lecture is wasted on proving random theorems that we will never be expected to prove. If you do bad on the midterm, don't give up as the content gets much better next term which means it is still possible for you to recover your mark. As far as I saw, the first part of the course is tough to wrap your head around for most people but the post midterm content is more computational and easier to understand. If you can take the course online then do it since assignments and quizzes are weighted higher and the exams are online as well.
+
+Review 8 (student liked the course):
+This course is an introduction to proofs. I remember it being very difficult to grasp some concepts, and I spent a long time on assignments. But what you learn in this course is quite important for upper years. I took it in Fall 2020, online.
+
+Review 9 (student liked the course):
+I wouldn't say it was an easy course but it is definitely manageable. Midterm was not easy but finals was quite light. Definitely the course I enjoyed the most as I learned a lot.
+
+Review 10 (student liked the course):
+Was my favourite course in 1A, taught you a different way of thinking and approaching problems. It is a difficult course, but if you read the textbook and do lots and lots of practice problems you will be fine.
+
+Review 11 (student liked the course):
+Read the textbook, it is a godsend
+
+Review 12 (student liked the course):
+It's kind of hard for students who are in 1A term because it takes time to get used to this course. The assignments are always much harder than the content, which needs to be improved.
+
+Review 13 (student liked the course):
+A lot of proves and a bit of calculation,I really think this is easier than 138.
+
+Review 14 (student liked the course):
+By far the most interesting course of 1A. Teaching proof techniques is the main focus of the course, and is done quite well -- but all the topics that we touched on (gcd, complex numbers, modular arithmetic), were interesting too! One assignment a week, which usually took 3-6 hours, plus three Mobius quizzes a week, open for 24 hours each. The midterm was challenging but still fair, and the final was much easier. My only regret is not taking MATH 145 instead. If you are anywhere near the Euclid score cutoff, you should apply for the advanced courses instead -- you will likely find 135 to be fairly easy.
+
+Review 15 (student liked the course):
+This course teaches proof techniques which I assume that will be used a lot in future math courses and ended with lots of calculation. It was neither hard nor hard but I learned how to manage time wisely (took some time to get used to first-year university math tho).
+
+Review 16 (student liked the course):
+I think MATH 135 is a crucial course if you're doing anything proof related. It lays the foundation for proofs, which will be needed throughout uni if you're doing any math related program. It's not the easiest course, so pay attention in lectures, ask question and practice, practice, practice.
+
+Review 17 (student disliked the course):
+I found this course to be quite difficult, but my profs, Yu Ru Liu and Wentang Kuo, made it bearable with their office hours; 10/10 will take any course with either of them again!
+
+Review 18 (student liked the course):
+its okay if you do bad on the midterm. making a comeback on the final is 100% possible
+
+Review 19 (student liked the course):
+hard but study then not hard but might still be hard
+
+Review 20 (student liked the course):
+Definitely a challenging course, especially if you have no prior experience with writing formal proofs. Just make sure that you practice the concepts by finding question banks online and you'll be fine!
+
+Review 21 (student liked the course):
+Interesting material, but truly quite difficult. Takes a lot of practice, especially before major assessments, so keeping on top of assignments and quizzes helps a lot.
+
+Review 22 (student liked the course):
+This is a very well-organized course, which is great, since it is likely your first introduction to proofs, which will be absolutely central to any future math courses you take. Take note that the math in this course is very different from high school math and will probably require you to shift your thinking about mathematics from one of computation to one of puzzle-solving. Make sure to start the weekly assignments early since they can be a little unpredictable in how long they take. Also, every lecture day there is a 24-window to complete a Mobius quiz, which cumulatively count for 10% of your grade, so remember to do them (they can be easy to forget).
+
+Review 23 (student liked the course):
+Learned a lot on how to properly write proofs and different mathematical ways of thinking. If you were even a bit serious about contest maths in high school, this course is an easy 90+. Also, Anton is just absolutely goated -- if you have the chance, join in on one of his lectures or even just read his lecture notes!
+
+Review 24 (student disliked the course):
+Interesting topic, first time seeing proofs like this maybe useful for upper year math courses. Very difficult in-person but online is much easier, grading is unfair and depends on the prof (some profs gave extra bonus questions, etc). Pick Anton’s class if you can he is the best.
+
+Review 25 (student liked the course):
+this is a really great and interesting course! There is a lot of learning to do, and you do need a very consistent work ethic in order to keep up with course content. Practice makes perfect!
+
+Review 26 (student liked the course):
+This course teaches a completely new concept for most, proofs. Once you understand how to build a proof, the course gets easier, however some students never figure that part out. I think the pacing of the course is really well. My biggest piece of advice is to do the assignments by yourself. Struggling through and failing is how you learn. This is what will allow you to figure out exactly what theorems and techniques to use when which is the key to doing well overall. I personally really enjoyed proofs by the end of the course as it is a refreshing way to look at mathematics and if you truly love math you will love this course. That being said, the course is very professor dependent, so different professors provide very different experiences in this course.
+
+Review 27 (student liked the course):
+Really interesting course, makes you explore a whole new way of understanding mathematics. Unfortunately, if you're in-person only 20% of your grade is from assignments and quizzes, and the other 80 is midterm and final. Makes it really demotivating at times because each assignment is only 1% of your grade.
+
+Review 28 (student disliked the course):
+It's an overload of information tbh, but I can see why it's useful. This is one of those "practice makes perfect" courses.
+
+Review 29 (student liked the course):
+good intro to proofs
+
+Review 30 (student disliked the course):
+I found this course to be very challenging. might have been because I did not like my profs teaching style. proofs were nothing I have done or seen before so math135 was very new to me. the textbook isn't very useful to learn how to come up with proofs that were on any of the assessments. the weekly assignments were extremely difficult and took the average student around 5-10 hours a week to complete. weekly quizzes were good to assess textbook understanding. as someone who struggled in this course, i have to say the responses on piaaza were essentially useless when i asked questions about the course content, their response everything was a direct quotation from the textbook, or if they were feeling extra lazy would just say 'look at the course notes'.
+
+Review 31 (student liked the course):
+This course is great for anyone that is interested in math. It is quite different from high school math courses, as it is a whole new way of approaching mathematical problems. The course goes over techniques of proofs, which are the building blocks of many future math courses. The later half of the course goes over some number theory, I found it sufficiently challenging but still interesting. In terms of course load there are weekly assignments, but they are not too bad if you start early, and you are allowed to ask instructors for help. Be warned that the exams are fairly difficult though. Overall, a great course for any math enthusiasts to take.
+
+Review 32 (student liked the course):
+As an extremely average student, who is not especially good at math, I found this course to be both very fun and a bit challenging. Some of the content is hard to understand at first, but as long as you keep grinding out practice problems and spamming questions on Piazza you will be fine! I strongly believe that ANY student that just puts in the time and effort will succeed.
+
+Review 33 (student disliked the course):
+In the beginning of the term this course felt very useless. However, that was the most childish a wanna be theoretical physicist can tell himself. A lot of what you will learn in this course will be useful as it will be the foundation of the mathematics you will need to solve a lot of theoretical physics problems. A lot of what u learn in this course is also useful in proving equations u derive as a physicist. You will learn things like Complex numbers, Methods of Proof, The Binomial Theory, Summations and repeated multiplications. All of these concepts are useful for example when we try to approximate equations in Physics, a good understanding of Summations is required. Binomial theory may be used to expand Relativistic kinetic energy equation. Lets say u as a mathematical physicist derived an equation some how. Now u want to make sure that the equation is valid, a basic knowledge of what u learn in this course may be helpful. Complex numbers can be spotted in Schrodinger's Wave Equation. If u are serious about physics, don't take this course lightly. Although this might be an over exaggeration but I feel like this course is as important as Calculus. So In calculus you will be asked to derive Taylor polynomials, how will you do that without a basic understanding of Summations? Although the science mathematical physics students donot have to take this course before taking math 136 (linear algebra for honours math), this course is very useful in math 136. The proof techniques you learn in this course like Proof by Strong induction may be useful in Linear algebra. And all physics enthusiasts know the importance of linear algebra in physics. One can finish most of math 137 (calculus) assignments without having to look at lectures (I donot recommend this) and get a good grade. You cannot even solve the first question in math 135 before fully understanding all concepts in the lectures. I personally very much disliked this course mostly because the math learned was very new compared to what I was taught in school and it was difficult to understand these ideas. But I did enjoy learning about the new concepts. but I understand that the content taught is very important. Therefore, if u are an apprising physicist, take the course seriously. If u like pure math take this course seriously, if u like CS take this course seriously. If u like Finance take this course seriously. If u like painting take this course seriously (u need to understand the golden ratio to figure out how to make ur art perfect). Regardless of ur major, please don't undermine the value this course provides. This course sucks no doubt, but it is hella useful so pay attention in class and do all assignments even though u can drop one. A criticism I would have with this course is the lack of applications. Although this course content has many applications the course is designed in a way that suggests that there is none except in pure math. I would like that to change. And if possible please make a physics based Math135 and math 136 please and thankyou.
+
+Review 34 (student liked the course):
+Incredibly helpful for anyone who wants to develop a more profound understanding of the fundamental components of algebra.
+
+Review 35 (student disliked the course):
+The most difficult course in my 1A. Really suffered.
+
+Review 36 (student liked the course):
+the course is hard but definitely manageable. don't stress over the assignments because they are worth so little. rather you should try to understand the content on a much deeper level. that goes a long way
+
+Review 37 (student liked the course):
+This course is all about writing proofs. Most of the concepts were super interesting but writing the proofs was challenging. The course is designed really well as each chapter flows into the next, so you really understand the connections. Do the assignments yourself and try to do the extra practice before midterms and finals. I personally loved this course!
+
+Review 38 (student liked the course):
+I have never thought of or seen math like this before in high school. Being introduced to this course has definitely expanded my horizons on how I see mathematics being applied in the world. It is a challenging course and some concepts are hard to wrap your mind around, however, with practice, it is a doable course. The structure is great and the course is well maintained by the faculty.
+
+Review 39 (student liked the course):
+In my opinion one of the best run courses. Does a great job of introducing a new perspective on math.
+
+Review 40 (student liked the course):
+It's a new way of mathematical thinking for most and I personally found it really fun and fascinating.
+
+Review 41 (student liked the course):
+It's a great course. Well organized and building a fundamental basis for our mathematical intuition. It also combines how the elegance of writing and math.
+
+Review 42 (student liked the course):
+The concepts are easy, but the applications are difficult. The problems on assignments and exams are fun, but challenging (and very rewarding when you finally get it right).
+
+Review 43 (student liked the course):
+The content is interesting but, nothing really that special. Definitely a nice introduction
+
+Review 44 (student liked the course):
+A nice course where proofs really take a while to click and understand but given practice proofs will come naturally. don't expect much help on piazza bc instead of answering or reading your question, profs will reply with some useless vague rhetorical question.
+
+Review 45 (student liked the course):
+When I was taking this class, I had a casual conversation with my professor during which he told me that, though it starts off slow, it is actually possibly the hardest class in the maths faculty. And so I went ahead and braced myself for what was to come. To this day, I have no idea what he was talking about, and his seemingly sincere words continue to baffle me. This class was an easy ninety, and quite enjoyable as well. All the little proofs they give out are so satisfying to solve -- the same tranquil pleasure of sudoku or a crossword. I'm half tempted to publish a little booklet of them. I think I'm going to miss this class a little.
+
+Review 46 (student liked the course):
+Took this in person F2020, it truly opened my eyes to the world of real mathematics. Well-organized course with quite a few amazing prof. I had Faisal, really enjoyed his lectures and he was active on Piazza as well. The first half of the class teaches you proof techniques and some basic mathematical logic (which you will see again in CS 245), then second half goes into elementary number theory stuff (prime numbers, division theorem, modulo) and complex numbers. The weekly assignments were tough and I always do them 2 or 3 days before deadline so it was not a nice experience at all so my tip is to start them asap and get help from instructor or TA whenever you get dead stuck. I regret not going to office hours and had to suffer hard.
+
+Review 47 (student liked the course):
+Super fun and well run course. Great intro to proofs.
+
+Review 48 (student disliked the course):
+proof based math is a new way of thinking.
+
+Review 49 (student liked the course):
+Very fun class with interesting, albeit not very applicable material. Covers stuff like elementary number theory and touches briefly on fields. Gives an intro to writing proofs by reading proofs, very well taught course. Only regret is not taking the advanced.
+
+Review 50 (student liked the course):
+The first part is useful, it shows me some justifications on what is different from what I learned in high school (something like 0^0=1). The second part is annoying, since I didn't learn number theory in high school, so it's hard for me to cope with difficult questions. When it goes to Prime Number, there are questions I have no idea to get full marks (question itself is easy to answer, but no idea how to avoid losing partial marks, fortunately, TAs are willing to give full marks) The third part RSA (application on number theory) is really interesting. Overall, easy course with a high grade because there are 2 free bonus marks. The final exam is hard. Some questions you have no idea how to get full marks even if you know how to solve them. If you have done many proofs in high school, easy 90+ as an online course. Just using Excel to make a calculator. EEA helps a lot.
+
+Review 51 (student liked the course):
+Very useful course. Anton is a great prof who actually cares about his students. It does get hard towards the end of the course but there is always help available when you need it.
+
+Review 52 (student liked the course):
+Fascinating course that ramped up in difficulty after midterms.
+
+Review 53 (student liked the course):
+Should be a breeze and quite fun if you love competition math and proofs. Loved the number theory the most.
+
+Review 54 (student liked the course):
+I like proofs. But not because of this course, but because of Math239 which is a descendant of this course. You will learn LOTS of great techniques for proofs, you may hate it or love it. I would say this usually depends on the professor. I got Shane Bauman, not sure if I liked his style, but for sure he was very energetic. Shane is a great teacher, but his pace is very fast for many. I would personally NOT recommend him since he doesn't post notes online for students to catch up. Go with profs who (may go fast with their lectures but) post their notes online.
+
+Review 55 (student liked the course):
+Took it online during covid-19. Some of the assignments were very challenging, but the exams were usually pretty easy, and our grades were hyper inflated.
+
+Review 56 (student liked the course):
+This course really expands my thinking as a mathematician. It starts easy and gradually builds up the level of difficulty. Some assignment questions near the end of the course really take time, but also intriguing. I could spend a day just to finish an assignment without being bored. Overall, this is my favorite course in 1A and I did learn a lot of fun stuff.
+
+Review 57 (student liked the course):
+Not that hard compared with MATH 137. Quizzes and written assignments constitute a large portion of the final grade. Written assignments are usually hard, which takes days to complete. It is recommended to participate in office hours when instructors usually give hints for the assignments.
+
+Review 58 (student liked the course):
+Was fun at first as it's similar to competitive math, but as the term goes on and assignments pile, it's not that great. Assignments are based somewhat on the material but it will take a long time just to finish one question.
+
+Review 59 (student liked the course):
+I feel like it's too early in my academic career to speak of the usefulness of this course. I will agree with what others have said, pre-midterm this class is really not tough. In fact my advice would be to squeeze all the marks you can pre-midterm, by doing this you are able to save your dropped assignment for the second half when assignments become a lot harder and you can go into the exam being able to pass the course with a fail on the exam. Also go to office hours and start assignments early, they're a great help.
+
+Review 60 (student liked the course):
+Fun, but the topics get too abstract nearing the end. The first half of the course was much more enjoyable and useful imo
+
+Review 61 (student liked the course):
+Very useful course. Really enjoyed applying proof techniques to different questions. Although somewhere around (Assignment 4+), assignment difficulty went from stupidly easy to incredibly difficult and it could take upwards of 15 hours to complete a problem set.
+
+Review 62 (student liked the course):
+Useful course. Assignments get a lot harder after the midterm.
+
+Review 63 (student disliked the course):
+Fair difficulty but very tedious/annoying proofs on weekly written assignments (15-22h each week for me, to achieve low 90s on average) that just made me not want to see a proof ever again. Mike Cooper-Stachowsky is an amazing lecturer, but even then, I couldn't find myself engaged in the content apart from the concept (not proofs - those were not engaging) of modular arithmetic and RSA encryption. The Mobius assignments (quizzes) were free marks if you put enough time/effort into them since they had 3 attempts each, and oftentimes there were some questions that just took away so much of my sanity that I gave up and settled for a lower grade.
+
+Review 64 (student disliked the course):
+Learning proofs was useful in the first half of the course, after that it was all useless bs. Assignments were all about finding little tricks, not actually testing the content.
+
+Review 65 (student liked the course):
+Pretty interesting course. Mobius quizzes were quite easy but set aside a fair amount of time for written assignments as they tend to get much more difficult post midterm.
+
+Review 66 (student liked the course):
+This course isn't easy. It takes a lot of hard work from your end to get a good mark. As the semester progresses, the concepts get harder. That is, at first, they can sound very confusing and intimidating. However, with a lot of practice and patience, you can relate to the topics more effectively. The proofs come to you with patience. Don't get discouraged if you are not able to solve them right away.
+
+Review 67 (student liked the course):
+Actually insanely interesting, coming from someone who doesn't like math other than plug-and-chug. It opens your eyes to a completely new way of looking at math, and I really enjoyed understanding how the math works. Office hours were blessed, and the written assignments really helped me learn the material, even though they were a bit hard. Mobius quizzes were also babyfood.
+
+Review 68 (student liked the course):
+The course was like an edible that's too strong. At first everything is great and you think it's soft but you just keep coming up. As it progresses, the intensity only increases and can become overwhelming and you may not like it. If you don't like your prof I would recommend skipping your lectures and using the mobius lessons. They are much more concise and you can be sure that you will not miss something covered on the assignments. Also the feedback part can be very similar to the quizzes. Overall it was very rewarding to finish the course, but just beware that it becomes more time consuming towards the end.
+
+Review 69 (student liked the course):
+Do your assignments with a buddy. Was a bit difficult near the end but very rewarding course.
+
+Review 70 (student liked the course):
+As someone who did a lot of math contests in high school, I found the course very exciting, and provided me with a new perspective and appreciation for language and proofs in mathematics.
+
+Review 71 (student liked the course):
+Pretty good online, First half is deceptively easy, second half gets much more difficult, especially exam. Pretty good introduction to proofs
+
+Review 72 (student disliked the course):
+The first half of the course was super easy and then the course took a turn for the worst. The quizzes are pretty easy but the assignments can be extremely tough - so I suggest that you do not start them at the last minute.
+
+Review 73 (student liked the course):
+Interesting course because problem-solving is interesting. However, sometimes it gets boring (i.e. prime number stuff, modular artihmetic) because you know that you'll never apply this knowledge in real life (at least for me personally). Assignments are really annoying because sometimes they allow for basic hand-waving and other times they arbitrarily demand absolute rigour. As a result, you have to constantly browse Piazza to see what you can hand-wave and what you can't.
+
+Review 74 (student liked the course):
+Took online but in person classes. My prof, Koeller, was extremely helpful, definitely the best prof I've experienced thus far. The content is relatively interesting, but the weekly written assignments were made extremely difficult and were significantly harder than the content taught in class, almost to the point of absurdity. Aside from that though this is about as interesting as math can get.
+
+Review 75 (student liked the course):
+The course was organized well this online term and most of the material serves as a good foundation for future math courses. The assignments got quite difficult and tedious towards the end, which was incredibly frustrating. If you put in the effort and go the extra mile to do things like attend office hours and do practice problems, you'll be in good shape grade-wise.
+
+Review 76 (student liked the course):
+Probably my favourite course in 1A. Easy to do well in the course and the staff put the learning materials together really well. Really enjoyed this course since it teaches you about the art of problem-solving and the creative components of mathematics. If you stay on top of the material and start the psets early enough you'll do well.
+
+Review 77 (student liked the course):
+Good introduction to proofs, which comes in handy for every other math course. Course is structured really well so assignments are very hard but very rewarding once you finally get it. Anton Mosunov is the GOAT
+
+Review 78 (student liked the course):
+I don't like math. I'm a CS and code guy, not a math guy. However, all the profs I've interacted with in this course (I had Yu-Ru and Anton the course coordinator is just amazing) are lovely. They help you out and you feel cared. It does get really hard at the end though. Make sure you go to Yu-Ru's office hours if you can because she gives so many helpful hints there.
+
+Review 79 (student liked the course):
+Very basic proofs, gets harder towards the end but nothing too difficult
+
+Review 80 (student liked the course):
+As someone who was nervous about proofs going into the course, I found that this course introduced them well! While I struggled with some of the concepts, I found proving things to be fun and sometimes even satisfying.
+
+Review 81 (student liked the course):
+The online version course is very well structured. You get some check your understanding questions after each topic which is very useful and helpful. There is 10 weekly quizzes and 10 weekly written assignments in this course. This course starts very easy but gradually becomes more difficult, especially after the midterm. However, it is a very interesting course!
+
+Review 82 (student liked the course):
+Before midterms, super soft. After the first week of midterms, complete hell. Go to office hours for written assignments. Mobius assignments are free marks
+
+Review 83 (student liked the course):
+Very easy till the midterm. After that, they go Super Saiyan mode and give hard af assignments. Very interesting tho. The profs are working hard on the online version.
+
+Review 84 (student liked the course):
+One of my favorite courses of all time. It's a breather from other courses since it really tests your logic and problem-solving skills. Each question feels like a fun puzzle.
+
+Review 85 (student liked the course):
+Fairly easy course overall, enjoyed the class a lot. Carrie Knoll was an excellent lecturer.
+
+Review 86 (student liked the course):
+Easy 80. Just do the assignments.
+
+Review 87 (student liked the course):
+Very interesting and useful course. Pay attention to the lectures as some of the content will show up in upper year math courses.
+
+Review 88 (student liked the course):
+Never done proofs before, so it was quite difficult for me. Content was interesting though.
+
+Review 89 (student liked the course):
+Don’t be mistaken, this course is tough. It will teach you pretty much the foundations of UW mathematics. You need to listen and spend a lot of time just thinking about the problems. Take some time with the course and you’ll enjoy it a lot.
+
+Review 90 (student liked the course):
+Was a good introduction to proofs in algebra.
+
+Review 91 (student liked the course):
+If there's one class you don't want to fall behind in, it's this one. Each new concept builds onto the previous one. If you're like me and don't have much experience with number theory or really any math outside of high school math courses (which you did well in), this will not be an easy course. A lot of the math is new and abstract. Make sure to do as much practice as you can to familiarize with all the theorems (there are a LOT of theorems). The final exam is worth 60% so even if you do well on the weekly assignments and midterm, you still have to study hard.
+
+Review 92 (student liked the course):
+Proofs are a pretty big shift from high school math
+
+Review 93 (student liked the course):
+Don't start assignments the night before they're due, stay on top of your work and make sure to understand key concepts as the course builds on itself. Should be a breeze if you play your cards right.
+
+Review 94 (student liked the course):
+Interesting course. Assignments can be challenging so start those as soon as possible. Midterm and Final were straightforward.
+
+Review 95 (student liked the course):
+Honestly I struggled with the course more than I should have in hindsight. But don't despair if you get a bad midterm mark - if you work hard you can improve your mark in the final.
+
+Review 96 (student disliked the course):
+Do the assignments and practice problems and you should be good on the course! The course notes are really useful so read them regularly. Lectures aren't the most useful, but they do give tips on how to use formulas and theorems.
+
+Review 97 (student liked the course):
+One of my favorite classes of undergrad. It's very reasonable as long as you start the assignments early on your own and don't copy off of others
+
+Review 98 (student liked the course):
+Amazing course! you'll either love it or hate it lol. Need to go to lectures and keep up with the assignments to do well. Textbook is very useful! Choose your prof wisely as that will impact your grade significantly.
+
+Review 99 (student liked the course):
+A solid, and worthwhile course to teach you the fundamentals of mathematical proofs. The hard work is definitely worth it!
+
+Review 100 (student liked the course):
+Assignments were generally easy. Do the practice problems throughout the term and go to res tutoring or the tutorial centre if you need help with a question. You need a 60% in the course to pass.
+
+Review 101 (student disliked the course):
+Can't really speak to its usefulness, but it is a tough course for most people. It's very different from what we've been learning so far so make sure you attend lectures and do the assignments. Do not procrastinate on the assignments as you will regret this when midterms or finals come around. Practice using the theorems and practice the different proofs. Midterm and final are quite reasonable if you put in the work during the term. Final has a couple computation questions which are your easy marks so make sure you get those!
+
+Review 102 (student liked the course):
+I actually enjoyed this course. It was a lot of new stuff for me but nothing too hard to get. Assignments were impossible to do alone so I had to go to office hours every week or talk with friends or go to tutorial centre to solve everything. The textbook is pretty useful, has some good examples.
+
+Review 103 (student liked the course):
+Study hard for Math 135
+
+Review 104 (student liked the course):
+Proofs! The harder problem solving works out to be either you know it or you don't know it, so you basically just have to do a lot of problem solving and maybe something will stick. This course is good for writing proofs in other courses later.
+
+Review 105 (student liked the course):
+I found the course hard since it's not like anything we learned in high school. There were a lot of proofs and algorithms, which I'm not good at. However, the course is very interesting and I enjoyed it.
+
+Review 106 (student liked the course):
+This course is interesting and easy before the midterm. Still interesting after the midterm but it is super hard. I took it twice and still couldn't get a good grade
+
+Review 107 (student liked the course):
+Proofs were difficult but adequately prepares you for math courses in the future!
+
+Review 108 (student liked the course):
+Hardest Class in 1A! Study until your hand hurts from those proofs. Also post midterm is much easier than pre-midterm.
+
+Review 109 (student liked the course):
+The midterm was pretty hard, and the final was easier to compensate
+
+Review 110 (student disliked the course):
+It is a useful course but definitely not easy if you never prove before.
+
+Review 111 (student liked the course):
+I honestly didn't find this course too bad. Writing proofs seems daunting at first, but with practice, you'll start to be able to think in that manner and it will become much easier. I would caution relying on others for help too much though- I think the best way to screw yourself over in this course is to not keep pushing even when you get stuck on a question (Which happens a lot).
+
+Review 112 (student liked the course):
+Will most likely be hard in the beginning, but if you keep working at it, the proofs will be much easier.
+
+Review 113 (student liked the course):
+Every week, your mind will be blown due to how insane some of the proofs become.
+
+Review 114 (student liked the course):
+Teaches the fundamentals of higher education math, useful course but takes some time to understand the topics, but nothing was unbearably hard but good amount of work with the weekly assignments.
+
+Review 115 (student liked the course):
+Hard course, but fundamental math concepts taught.
+
+Review 116 (student liked the course):
+If you do poorly in this course, you're probably not cut out for "real" math.
+
+Review 117 (student liked the course):
+The assignments usually need time to be thought.
+
+Review 118 (student liked the course):
+the basic of math
+
+Review 119 (student liked the course):
+Essential course, taught me to think differently than before I took it.
+
+Review 120 (student disliked the course):
+First half up to the midterm was easy
+
+Review 121 (student liked the course):
+One of the more interesting math courses, difficult at first but really improves and tests logical thinking ability. Make sure to do every assignment question and fully understand the solutions to do well
+
+Review 122 (student liked the course):
+Realized how good this course was after the term I finished it. Go through the material thoroughly and the most important part in the course is understanding the definitions and solve as many problems as you can.
+
+Review 123 (student liked the course):
+One of my favourite courses. Learning to do proofs is very useful directly in later courses, but also is a good way to think about things past proofs in courses
+
+Review 124 (student liked the course):
+A transition course from high school math to university math. Quite a lot of important proof techniques were taught and you have to really understand the concepts and apply them other than just simply memorizing them. Proof questions in the assignments are usually much more challenging than those in the midterm/exam so don't get discouraged if you cannot solve them. Do more practices and seek help and you will be fine. Be sure that you can solve all the computational problems in the exam as they are "easy" marks!
+
+Review 125 (student liked the course):
+Kinda fun around all kinds of prepositions, theorems, lemmas etc. A lot of materials after the midterm.
+
+Review 126 (student liked the course):
+Third time taking this course. Third time's the charm. Fun, though it's the bane of my existence.
+
+Review 127 (student disliked the course):
+Curverino op, gg
+
+Review 128 (student liked the course):
+Do the assignments, practice, and you'll be fine.
+
+Review 129 (student liked the course):
+fun stuff, felt really amazing grasping the content by the end. do the assignments on your own, go to all the lectures, and do the randomized practice. you should be fine.
+
+Review 130 (student disliked the course):
+Got a 60 by taking a shit on the tests, by far the most useless course in my undergrad. The ONLY things that I use are the proof techniques. All the theorems are complete garbage.
+
+Review 131 (student liked the course):
+This course was personally very easy for me and I enjoyed it very much. You learn the foundation of theory, proofs, elementary number theory and crypto. Really try to learn from this course; the assignments are tough and the exam was half the difficulty of the assignments (which is good).
+
+Review 132 (student liked the course):
+The course forces you to really understand proof techniques, and how exactly to prove things. This idea of proving things becomes very important in the future, so it is appropriate for students to take Math 135 as an early course. Proof-type questions can either take forever because you don't know how to approach the problem or have logically consistent arguments, or they can be done very quickly if you see what exactly you need to do and you are confident with your answer. Personally, I liked the proofs portion of the course more than the computation concepts later on since the elegance and conciseness of proofs are more appealing than repetitive computations. Overall, the course does a great job of getting you into the feel of University; it could make or break you quite easily.
+
+Review 133 (student liked the course):
+Easy final. Pay attention and do the assignments--that should more than prepare you for the course.
+
+Review 134 (student disliked the course):
+This course is important to understand as it sets you up for the future with Linear Algebra.
+
+Review 135 (student liked the course):
+BE WARNED! This course is VERY challenging for those who are starting to do proofs. A lot of things get thrown at you very quickly, and it is hard to keep track of everything. Assignments took VERY long each week. Definitely NOT an easy course.
+
+Review 136 (student disliked the course):
+Omg, one bitch of a course. But it got interesting later on. It shows you how to formalize your proofs and give you a better understanding of proof techniques used later on.
+
+Review 137 (student disliked the course):
+This is most definitely the hardest course I had in 1A. I guess I'm not really a proofs person. I would definitely recommend going to tutoring in residence - it's very useful for completing assignments and generally understanding some of the material. If you don't understand what the prof is talking about in class, make sure you clarify with them. Get help when you need it before it's too late.
+
+Review 138 (student liked the course):
+Amazing and challenging course overall. It's totally worth the hassle to override into this course even if you're not in the math faculty. The assignments are brutal to complete as they require so much time to figure out. But I would advise everyone to do them all on their own as they're there for you to develop the thinking you need to succeed. Anyone can understand a solution, but coming up with it is the hard part. It may be very difficult to do this in-between 5 other courses (3 of which are even tougher than Math 135), but it is possible. Good time management skills can lead to you finding more time to work on assignments such as the 10 minutes in-between lectures. The solutions will often feel like it comes down to a lucky guess. In general, the professors are pretty amazing. The math faculty doesn't send random people with thick accents to teach all their first year courses. Even if you do fail, there's still 10 more sections in the winter term where they mark easier, and 2 more sections in the spring where exams get easier. This course makes you a way better thinker when it comes to solving problems, and you'll gain way more out of it than most courses. This course can be an amazing experience to anybody.
+
+Review 139 (student liked the course):
+loved this course
+
+Review 140 (student liked the course):
+This course is totally a easy course in university.
+
+Review 141 (student liked the course):
+Not easy, but what I will say is that I loved just about every concept we covered. It was truly interesting, challenging (but not challenging to the point where I felt I couldn't do it). Really just one of my favourite courses I've ever taken.
+
+Review 142 (student liked the course):
+It is definitely one of the most interesting courses in my first year as it is the course that has the most new content compared to the other courses. The course was certainly challenging though I'd give it that but I did learn a lot from it. The most important thing about the course I'd say is PRACTICE!
+
+Review 143 (student liked the course):
+Arguably the hardest course in 1A for any first year in the faculty of mathematics. You really have to put the work in to understand the concepts which are not exactly easy to grasp. Assignments take many hours, midterm was fairly easy and final was fair. Good luck to anyone taking this course, just remember not to panic, you will be fine, everyone goes through the same stage and eventually we all survive.
+
+Review 144 (student liked the course):
+Very interesting course. Demands a lot but teaches a lot as well
+
+Review 145 (student liked the course):
+This course feels more like a logic course. It covered a lot of topics, but the concept is very fun to learn(depending on your prof). The first part of the class was fairly intuitive. The second part gets more complicated, but it was still interesting overall.
+
+Review 146 (student disliked the course):
+A very interesting class that teaches you the fundamentals of proofs and abstract algebra. Essential for anybody who wants to have a basic understanding of how math works. This ain't your high school math anymore.
+
+Review 147 (student liked the course):
+Great course with emphasis on proofs covering many topics. Some of the proofs can be pretty challenging to figure out, but are rewarding upon completion. Start your assignments early and don't be afraid to ask friends or your prof for clues to assignment problems if you are stuck.
+
+Review 148 (student liked the course):
+Perfect course to throw you into UW math, good luck!
+
+Review 149 (student liked the course):
+Very hard course. Got bumped up to a 60 after failing the exam and got fucked over in math 136. I however would not do this course again and would not wish this course upon my greatest enemy. It is hell.
+
+Review 150 (student liked the course):
+This course does not test one's ability to study. This course tests once's ability to think. As such, to do well in the course, you'd better just be a naturally smart person, or else you are going to have to slog away at practice problems for dayss
+
+Review 151 (student disliked the course):
+If hell were on Earth, this would be it. To be fair, though, I am very mathematically uninclined. If you're good at math, you may fare better through this course than I did.
+
+Review 152 (student liked the course):
+Good course. Exams are much easier than the assignments. It feels very rewarding when you figure out proofs.
+
+Review 153 (student liked the course):
+Easy introduction to mathematical thinking and proofs. Assignments were somewhat difficult and long but not worth very much, and were definitely good practice. Midterm was extremely easy and final was quite a bit trickier. Study the later content, and congruences and gcd, really well for the final. Also do the posted practice problems. It can also help to have a good prof in this course and/or read the textbook and most importantly, lots of practice with proofs every week.
+
+Review 154 (student disliked the course):
+What a bitch of a course. It doesn't matter how well you did in high school, expect 70s, 60s and even lower. Material spans from proofs to complex numbers. A lot of new material, so put the work in if you don't want to end up cramming before exams. This course is all about the hours you'll put in outside of class doing exercises. Keep doing proofs until your hand hurts.
+
+Review 155 (student liked the course):
+Its not entirely easy but you learn really a lot from this course and most concepts are very fascinating. Personally I struggle more with complex numbers than number theory.
+
+Review 156 (student liked the course):
+i had conrad hewitt. i didn't learn anything in class because he went so fast. honestly the notes for this course are really well made. i just went to the tutorial centre at mkv to finish off all the assignments with a LOT of help. pulled a decent mark somehow tho
+
+Review 157 (student disliked the course):
+im lucky i passed this course, i would never want to this ever again....
+
+Review 158 (student liked the course):
+This course is feared by many first year students and I can see why. For the people that do fail, it is mostly a case of them not adapting to university level math aka no more easy plug and chug. This is a beautiful course if you can appreciate math and logic. That being said, I did not find this course easy. Assignments take very long if you are trying to get perfect on them. That being said, I do recommend trying to get perfect on them, though sometimes it is wise to let one question go. To succeed in this course, I'd recommend reading the course notes which were super useful in understanding the basic material. Do your assignments and do well on them. Clear up all your confusions in tutorials or office hours and definitely use Piazza. A lot of students I find avoid Piazza, but in my term W2015, the profs on Piazza were amazing and almost always online. They were extremely helpful with assignments without giving answers away as long as you showed to them you were making progress and trying to solve the problem. With all this being said, I ended up doing rather poorly in this course (high 70s) for the amount of effort I put in due to doing poorly on the final. You definitely need a clear head for the exams since they involve proofs, something I lacked that day.
+
+Review 159 (student liked the course):
+Very useful course
+
+Review 160 (student liked the course):
+Sedra Smith recommended me this course so I don't end up like one of those pig 4 students. I did very well and am happy about my life choices.
+
+Review 161 (student liked the course):
+Course basically taught itself
+
+Review 162 (student liked the course):
+I found this course hard as I often felt like I understood the concepts but couldn't discover the proof. Do a lot of practice!
+
+Review 163 (student disliked the course):
+Interesting but challenging. I should've done more practice and started asignments earlier
+
+Review 164 (student disliked the course):
+As a CS student, I didn't really enjoy this "real math" stuff. I crammed for the final the day before, and was able to get a good mark. The material seems confusing at first, but if you keep up you should be set. Midterm and final are easier than assignments. Would recommend going over every major sections after you are done with them (ie. securing commerce, proof techniques, polynomials etc.)
+
+Review 165 (student liked the course):
+Assignments are difficult, tests are easy, extremely useful
+
+Review 166 (student liked the course):
+Great introduction to Mathematics at the University of Waterloo. Fun course but can be difficult at times. Keep up with the readings and study/practice hard and you should do fine.
+
+Review 167 (student liked the course):
+The material is quite different from any math I have seen before, but it is generally straightforward. Some of the assignment questions were hard.
+
+Review 168 (student liked the course):
+Challenge your logic thinking
+
+Review 169 (student liked the course):
+I read somewhere that this course basically teaches you how to math. I second that.
+
+Review 170 (student liked the course):
+Pretty useful to understand some basics of mathematics and prepare you for several courses to come. I found everything except the remainder theorem unit to be quite easy, but that one unit was rather difficult for me.
+
+Review 171 (student disliked the course):
+Pretty easy proofs course coming from a non-proof heavy background. Just do the weekly assignments and understand them (i.e. don't just get the answers from someone else, do them yourself), and lots of practice outside of that.
+
+Review 172 (student liked the course):
+Make sure you get a good prof and it won't be too bad.
+
+Review 173 (student liked the course):
+"Intro to math"
+
+Review 174 (student liked the course):
+Personally I thought the course was really easy-- at first. But don't let yourself slack off, because otherwise you will find yourself easily confused and lost as you fall further behind. Material gets harder as course moves along. Course material is still very relevant in other courses and in the future.
+
+Review 175 (student liked the course):
+When I say easy, take it in moderation. To many people, this will be the hardest 1A course you have.
+
+Review 176 (student disliked the course):
+wtf way too hard gg
+
+Review 177 (student liked the course):
+Assignment is much more difficult than the test, follow the lecture and do the assignment then you will do well in this course. However, be very careful after Midterm because there are so many theorem that you need to memorize or you will find yourself fall further behind.
+
+Review 178 (student liked the course):
+It gives you a first insight of mathematical proofs;a very easy course,but the knowledge taught will be repeatedly used in upper-year math.
+
+Review 179 (student liked the course):
+Difficulty is like a bell-curve. Starts easy, then hard, then easy. Do your assignments.
+
+Review 180 (student disliked the course):
+UGH :( the horrors of this course will haunt me for the rest of my university life
+
+Review 181 (student liked the course):
+A real math course. You will learn how to actually think mathematically since you probably don't know yet. An excellent course for the very foundation of math.
+
+Review 182 (student disliked the course):
+Difficult course coming out of high school. The computational stuff wasn't bad (just involved practice) but, as others have said, proofs were the tough. I think the whole idea is to transition your mind from just computational/plug and play mathematics (the only kind you get exposed to in high school) to more creative thinking based mathematics.
+
+Review 183 (student liked the course):
+Quite an interesting course.
+
+Review 184 (student disliked the course):
+Assignments were hard. Midterm was brutal, but final was fair. I wasn't particularly interested in the content though
+
+Review 185 (student liked the course):
+Really interesting course. I was lost in class but it was much better when I self studied. NOT AS HARD as people say it is.
+
+Review 186 (student liked the course):
+Really good course, make sure you do a lot of practice. But watch out, you're professor can dramatically impact your experience in this course.
+
+Review 187 (student disliked the course):
+Basic math knowledge.
+
+Review 188 (student disliked the course):
+Materials before the midterm were very easy, the course gets a bit harder after the midterm. But if you do all your assignments, you should be able to do well on the exam easily.
+
+Review 189 (student liked the course):
+Course was easy until immediately after the midterm, where it suddenly ramped up in difficulty (RSA in particular threw me for a loop). Assignments were much harder than any of the exams, so don't be discouraged if you can't do them. People hype this course up - it's challenging, but not impossible to do well in.
+
+Review 190 (student liked the course):
+Really interesting but tough material. If you can, go to the lectures of the highly rated professors. It's a completely different type of math from HS math and calculus so having a great prof introduce you to these new ideas can make it much more enjoyable. Oh and practice practice practice.
+
+Review 191 (student liked the course):
+You gotta get used to proofs if you're a math student.
+
+Review 192 (student liked the course):
+Very interesting course, but requires dedication. Attending tutorials and doing ALL exercises is a good idea.
+
+Review 193 (student liked the course):
+Really good course, the base of cs245.
+
+Review 194 (student liked the course):
+Teaches you the essence of mathematics.
+
+Review 195 (student liked the course):
+Kind of hard, but the material is interesting.
+
+Review 196 (student liked the course):
+At first was hard to grasp how to write good proofs, but by the midterm and further on it was easier.
+
+Review 197 (student liked the course):
+Get the course notes and read through them if you're having any difficulty with any topics. Could probably just learn the whole course from the course notes, but lectures are still useful for examples and different methods. Lots of new stuff from high school, proofs scared the living daylights out of most before we got used to them, but it became easier with a bit of practice. Just a matter of getting used to the creative way of thinking. Very interesting course if you want to understand some number theory
+
+Review 198 (student liked the course):
+Interesting course was generally fun to learn its contents. Assignments were more difficult than midterm though...
+
+Review 199 (student liked the course):
+A lot of Math that you probably didn't see in high school.
+
+Review 200 (student disliked the course):
+It'd be awesome to be good at this stuff, it's pretty interesting. Material covered is completely new however and the course moves at too quick of a pace
+
+Review 201 (student liked the course):
+Very interesting course, material can be challenging but that is part of why I liked it.
+
+Review 202 (student liked the course):
+Very insightful course. Great if you love number theory. Has more applications in pure math than in other areas, but useful nonetheless for proofs.
+
+Review 203 (student liked the course):
+I love the encryption part, it's just amazing how effective you can encrypt things with just so little effort and it takes decades to factor it!
+
+Review 204 (student disliked the course):
+A difficult course coming from high school. The proof techniques are definitely useful to know if you're heading into Pure Math or something, but less relevant to a CS major. Nice to know, still. Makes me feel smarter.
+
+Review 205 (student liked the course):
+Majority of the material is only for math students. As a CS student, I was incredibly bored most of the term.
+
+Review 206 (student disliked the course):
+Hard to get used to the way of thinking at first.
+
+Review 207 (student liked the course):
+Useful and relevant course. Well structured and interesting.
+
+Review 208 (student liked the course):
+This course requires a complete shift in the mathematical thinking that you have done in high school so expect to spend a bit of time to get it right and understand how to solve the questions. Otherwise memorize all the theorems and definitions and you will be fine.
+
+Review 209 (student liked the course):
+Hardest course I've taken yet. Manageable with ample studying and practicing though.
+
+Review 210 (student liked the course):
+Easily my favourite course at UW.
+
+Review 211 (student disliked the course):
+Various concepts were interesting, but unless you are prepared to work for it, it's not very easy.
+
+Review 212 (student disliked the course):
+Learning how to do proofs...well, this course wasn't very interesting especially if you are not of the math type. Assignments are difficult. Midterm was easy and final was easy-fair though.
+
+Review 213 (student disliked the course):
+Boring course
+
+Review 214 (student liked the course):
+Great introduction to math@UW! LOVED this course.
+
+Review 215 (student liked the course):
+A downright wonderful course.
+
+Review 216 (student liked the course):
+Have work for your grade.
+
+Review 217 (student liked the course):
+Probably the hardest first year course, a course solely on how to prove things. It is invaluable if you are pursuing a cs degree however.
+
+Review 218 (student liked the course):
+First half of the course was on proof techniques. The material covered was for the most part easy albeit a bit bland. Midterm was fairly straightforward as was the final exam.
+
+Review 219 (student liked the course):
+Weekly assignments are killer, but just be sure to get help if you fall behind. The course is not something to take lightly - the concepts are far different from the "algebra" you learn in high school. Proofs, proofs, proofs! -- This takes practice and time; so be sure to set aside time to work on these outside of your normal schedule - you're going to need it!
+
+Review 220 (student liked the course):
+Assignment questions take some thinking to get. Fun course that challenges us to think more.
+
+Review 221 (student liked the course):
+The first 2/3 of this course made lots of sense, the last 1/3 I really struggled with.
+
+Review 222 (student liked the course):
+Almost all proofs in this course. Also covered RSA encryption which was kind of cool
+
+Review 223 (student liked the course):
+I really enjoyed this class! It was quite difficult, but I learned a lot!
+
+Review 224 (student liked the course):
+Very challenging course with a lot of content - requires a lot of work, but it's definitely useful and interesting for future courses.
+
+Review 225 (student liked the course):
+Tough class, especially coming right from high school. The material is really cool, though, and the class is hugely important for all future math classes you'd take. (This is based on the Fall 2009 offering; it's changed a bit since then)
+
+Review 226 (student liked the course):
+Pretty difficult course, but very useful for future years.
+
+Review 227 (student liked the course):
+Great introduction to proofs.
+
+Review 228 (student liked the course):
+A course on proofs. It surveys topics in number theory to provide examples of theorems and their proofs. The content on things like modular arithmetic and complex numbers is less useful than the practice students get writing proofs.
+
+Review 229 (student liked the course):
+Pretty cool course. They teach you a bunch of number theory and a lot of it is very interesting.
+
+Review 230 (student disliked the course):
+hard as hell... get a tutor and pay attention in class. do the assignments on your own as much as possible
+
+Review 231 (student liked the course):
+Very interesting and useful for all mathies.
+
+Review 232 (student disliked the course):
+First course that teaches you what UW math is all about. You'll probably hate it.
+
+Review 233 (student disliked the course):
+A lot of intuition with proofs is required.
+
+Review 234 (student liked the course):
+A large variety of mathematical theorems, but most importantly proofs.
+
+Review 235 (student liked the course):
+Interesting course!
+
+Review 236 (student liked the course):
+Make sure you memorize all of the propositions and theorems!
+
+Review 237 (student disliked the course):
+Seems the course material changes constantly because they can't find a good way to teach it.
+
+Review 238 (student disliked the course):
+A whole lot of proofs. It is not likely that you will ever use more than 10% of the course content ever again.
+
+Review 239 (student liked the course):
+Really works on learning how to think
+
+Review 240 (student liked the course):
+Easiest
+
+Review 241 (student liked the course):
+teaches you how to think
+
+Review 242 (student disliked the course):
+Before midterm is every easy, but things go tough after the midterm
+
+Review 243 (student liked the course):
+it's great to have a course teaching you how to prove
+
+Review 244 (student liked the course):
+Interesting yet challenging course.
+
+Review 245 (student disliked the course):
+tough course. hardest course for my first term
+
+Review 246 (student liked the course):
+Was really interesting to learn about RSA encryption and modular arithmetic in general.
+
+Review 247 (student liked the course):
+If you want something to initially challenge your ability to understand and use logic, you will enjoy this course
+
+Review 248 (student liked the course):
+last 10 points
+
+Review 249 (student liked the course):
+Great course, I really enjoyed it. Not easy persay, but definitely not time consuming or difficult to understand.
+
+Review 250 (student liked the course):
+Okay course. Could use some more challenging problems.
+
+Review 251 (student liked the course):
+Don't get too lost and give up at the beginning of the course. It gets easier and just do tons of practise questions.
+
+Review 252 (student liked the course):
+Note: The curriculum has changed since I took this course.
+
+Review 253 (student disliked the course):
+Was a good course. Very interesting and stuff.
+

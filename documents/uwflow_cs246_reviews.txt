@@ -1,0 +1,340 @@
+Student reviews of CS 246: Object-Oriented Software Development
+University of Waterloo — collected from UWFlow (student-run course review site)
+Course stats: 621 ratings | 65% found it useful | 60% found it easy | 60% liked it
+
+Review 1 (student liked the course):
+Probably the most important CS course you will ever take.
+
+Review 2 (student liked the course):
+The lectures honestly felt very just 'oh here's a cool trick to solve this problem' repeatedly. It's cool that everything is automated with their assignments being on git and all, but sometimes when things are unclear the instructors will make note on Piazza but not change the assignment file itself. The midterm was pretty difficult for most people, but the final probably was a little bit better. The course would've probably been easier to digest if they shared the notes they were writing down, but overall the assignments were helpful in making sure your knowledge was solidified.
+
+Review 3 (student disliked the course):
+hard
+
+Review 4 (student liked the course):
+you learn c++. great. only problem is a lack of course notes, but prof was so good I didn't really need them. just get a good group for a5 and don't procrastinate on it or else you'll end up writing 3500 lines of code for a half functioning project. otherwise, pretty fun and cool course
+
+Review 5 (student liked the course):
+Best CS course as of 2B. You'll learn OOP and C++, two of the most coveted skills for programming jobs (you used to learn Linux as well, but I pushed that part to CS 136L, which you hopefully enjoyed). At the end of the course there's a final group project. Make sure you get good groupmates who will put in their share of the work. There's also design stuff for this, which involves UML diagrams and a lot of writing. The way I sorted it with my groupmates was I'll do all the coding and they handle the writing. I'm a neat freak when it comes to coding and I'll document everything extensively and use constants etc, so I found it nice to look back and go "cool, I wrote that in good style." Use only smart pointers for the whole course, and use CLion, it's debugger will save you at 3am.
+
+Review 6 (student liked the course):
+Time-killer course, but I would agree that what I learn in this course is more than what I learn in all other 1st and 2nd-year courses!
+
+Review 7 (student liked the course):
+a lot of coding, but sooo enjoyable. the final project is a grade booster and it's so nice to show off at the end. c++ is my fav language now.
+
+Review 8 (student disliked the course):
+The assignments took me so long, it definitely wasn't easy. Definitely the hardest CS course I've taken yet. C++ kicked my butt. This course is quite important, so pay attention! I took it online in Spring 2021, there was a final project (no exam)
+
+Review 9 (student liked the course):
+CS246 has been one of (if not) my favorite courses in undergrad. The assignments provide a fun challenge and the group final project really pushes your ability to build something under a time constraint. Be prepared to work hard. You will learn a lot.
+
+Review 10 (student liked the course):
+Definitely one of the most useful courses I've taken in undergrad, especially if you do any C++11 or newer for your coops. Covers many relevant C++ specific topics, such as virtual methods and how they work under the hood, the big five, RAII, some parts from the STL such as smart pointers, and other OOP concepts and C++ design patterns.
+
+Review 11 (student liked the course):
+Great course to learn about OOP and Linux! Lots of content, 5 heavy programming assignments, midterm and final. Assignments are LONG but not too difficult if you start early and do bits each day. A4 was the hardest for me. You NEED to stay ontop of your stuff in this course.
+
+Review 12 (student disliked the course):
+Took in Fall 2021. Expect to spend 15+ hours/week just to do the assignments in this course. Workload is really heavy, but the material is very useful and has lots of applications for co-op jobs. I honestly hated this course because of the workload and broad range of course content; the assignments were literally the most frustrating thing ever and took forever to crack. Final project was difficult but still fun to do. Course content covered a lot of stuff, ranging from BASH scripts, to C++ syntax, classes, polymorphism, and smart pointers. Despite me not liking the course overall, the instructors/course staff were amazing and always willing to help. Office hours could be improved however, given the amount of people coming to them. Advice: DO NOT SLACK ON THE ASSIGNMENTS
+
+Review 13 (student liked the course):
+Pretty code-heavy course; I personally struggled a bit on it. A3, a5, and the final project literally took forever. Huge time drain but ended up ok, just start early.
+
+Review 14 (student liked the course):
+Good course. I learned a lot about C++ and how to design OOP programs. I came from advanced first year courses, so having no release tokens (a way to see the number of test cases you passed) made it much more difficult. Fortunately, the instructors encouraged testing and even gave us marks for making our own tests. To be honest, the assignments weren't very interesting, but I still think they were useful. I found the quizzes easy since most of the questions I could just type in an editor and run some code to double check my answers. I took this course online, so all I had were assignments, quizzes, and a final project. I did the one-person project (I recommend choosing this if you just want to save time). It was pretty simple to do and can be implemented in one or two day if you create a good design. For the more difficult assignments, I recommend starting right away as they can be hard to debug and implement.
+
+Review 15 (student disliked the course):
+Was online so no way to understand the last two assignments. Generous curve though
+
+Review 16 (student liked the course):
+very useful course! start assignments early and you'll be fine. I found this course to be super easy because of it.
+
+Review 17 (student liked the course):
+Fall 2021 online semester consisted of 5 assignments, some quizzes, and a final project. Main programming language is C++ (with some terminal/scripting stuff). Course content was very useful but very challenging, even when coming from a programming/coding background. Expect a heavy workload!
+
+Review 18 (student liked the course):
+Hard assignments but if you put in the time and start early, you will finish them easily. Project based class with not much stress on theory.
+
+Review 19 (student liked the course):
+By far my favorite course that I took in 2A. The content covered was extremely interesting and practical. You also learn C++ in this course which is super useful. In terms of assessments, there were only 5 assignments and 1 final project. I personally found the assignments to not really be too difficult at all. The difficulty of each assignment I would say was on par to your average CS135 or CS136 assignment. If anything, on average they were a tad bit easier and there are a lot less assignments compared to those courses. The final project was also not difficult, but just long and fairly time consuming.
+
+Review 20 (student liked the course):
+It's a very fun course. The projects, assignments, and lectures are all interesting. It's not easy at all, but it's not as bad as many students describe if you dedicate enough time to the assignments and the project.
+
+Review 21 (student liked the course):
+nice course, nice content c++ is cool, very very very accommodating course staff
+
+Review 22 (student liked the course):
+I came to respect this course. The assignments for the most part actually tested the content being taught without forcing unnecessary requirements.
+
+Review 23 (student liked the course):
+One of the most useful course that I have taken. I am on my co-op work term and the contents learned in this course are proving to be very helpful. I can see how learning these contents can be extremely useful to other CS jobs as well, especially the basics of Bash, C++, and UML diagrams. The main challenge in this course is time management. The assignments (especially the final project) takes a lot of time, but very doable. Piazza questions are answered fast by professors as well, and office hours are provided throughout the week.
+
+Review 24 (student liked the course):
+My favorite class in 2A (taken alongside CS 245 and STAT 230). There are no formal assessments like midterm and exam. Instead, there are 5 assignments and one final project. The content builds on top of another so doing the assignments also helped me reinforce my knowledge. After completing the course and reviewing the contents just days ago, I can definitely say with confidence that I will use this knowledge in my upcoming co-op. This would probably be one of the most applied and relevant CS courses you will take. On another note, the instructors were super helpful on Piazza, especially Prof. Kierstead, which made me feel the instructors do care about the success of the students. Overall an extremely fun course to take, just try your best to stay on top of the material as it's pretty easy to fall behind since there's a lot of notes.
+
+Review 25 (student liked the course):
+Definitely very useful, but it goes really fast. Try to keep up and you'll be fine.
+
+Review 26 (student liked the course):
+Easily my favourite CS course so far! I wouldn’t say it’s that difficult, but it is time consuming.
+
+Review 27 (student liked the course):
+This course is fine until A4...
+
+Review 28 (student liked the course):
+Best course at UW so far. The content is expansive and perhaps this course could even be divided into two so that there is more time to learn advanced design patterns and other concepts. The assignments are easier than CS136 in terms of coming up with algorithms to solve a problem, but designing that very solution and its interface is where the real challenge of this course kicks in. Loved every bit of the assignments, and I felt they covered a lot of the fundamental learning objectives of the course. Everything about this course is perfect and enjoyable. +Rep
+
+Review 29 (student liked the course):
+It definitely helps shift your mindset.
+
+Review 30 (student liked the course):
+The best course I have ever taken so far. It easily outshines any other course because it actually teaches you the most single important aspect of programming (and very fundamental too) - the OOP principles and design techniques. You will learn LOTS and the final project will be a great learning experience as well for those who haven't really done a side project outside of school. You will love this course! (I took AP CS and knew OOP already but still learn so many new stuff!)
+
+Review 31 (student liked the course):
+Took it online during COVID semester, easily the best CS class I've taken so far. Really interesting assignments, great final projects to work on with friends.
+
+Review 32 (student liked the course):
+It ain't easy that's for sure but that's where you start learning to become a proper programmer where you learn to write such a hard level program. Pay attention, practice and try to go a level above in your free time on your own.
+
+Review 33 (student liked the course):
+Took it online during pandemic
+
+Review 34 (student liked the course):
+Do your assignments and you'll be fine. You'll probably be fine as long as you finish more than 2/3 of the assignments. For your final project, make sure to find groupmates that actually does work because I heard it can be really difficult otherwise. Also make sure you ask people early or else they'll agree to someone else haha (my groupmates were awesome!). There might be some contents from assignments that weren't covered in lectures, so do Ctrl + F on the reference materials (and Google is your bff!)
+
+Review 35 (student liked the course):
+This course is an easy course, in terms of content... for the most part. There are certain areas that may require multiple read-throughs to fully grasp the idea, but nothing you can't do. I did this course online due to COVID so it likely will be somewhat easier than its in-class counterpart. However, the areas I personally had an annoying time dealing with was our 5th assignment with the Visitor design pattern; and the final project where I had incorporated a massive number of design patterns which sort of increased the complexity since I had to figure out how to make them all fit together. The first 3 assignments were very straightforward and simple. The final 2 ramped up difficulty mainly due to debugging and memory leaks. The difficulty in this course lies with the insane amount of time you have to put in for each assignment. I found that for the 1st assignment, I spent about 6-7 hours on it. Assignment 2 and 3 had me spending about 10-12. Assignment 4 and 5 were between 17-20 hours. The sheer scale of the assignments as they progressed was the primary cause of increased time, the difficulty though didn't really scale all that much. I would advise caution for the final project, you will be better suited with either selecting a game that is done individually or choosing a group of 3. The individual games are meant to be done by a single person... the group games are not... nor should they be by 2 people (as I had). Somehow my partner and I finished our group game in a week and a half when it was meant to be done by 3 within 2 weeks. However, it significantly impacted our other exams, so I was highly advise against doing what I did. Otherwise, enjoy this course, it's really the only practical CS course I've had so far!
+
+Review 36 (student disliked the course):
+Difficulty: on one hand, the content is really simple and it takes no time to understand. On the other hand, the assignments are so goddamn long. No amount of skill from cs14x or AP java has saved me from this monkey grinding. Every meaningless hour I spend on these tedious assignments eats away at my soul. Usefulness: this is probably the most practical course I've taken thus far, and I've gotten pretty good with standard linux development tools. That said, it's not worth the time I had to put in (see above). ... I'll go finish my assignment now
+
+Review 37 (student liked the course):
+Lots of work but tons of useful content. Start assignments early, especially the big group project! I found the group project to be pretty fun and a good challenge.
+
+Review 38 (student liked the course):
+Finally, a useful required CS course. Start your assignments asap, otherwise there will be some all nighters. And especially for the group project - listen to the prof's advice. START IT ASAP. Make an actual plan and start coding before the plan is due. Study and memorize your design patterns. All of them.
+
+Review 39 (student liked the course):
+Start assignments early or you will suffer greatly. Very useful class.
+
+Review 40 (student liked the course):
+Start the assignments early!
+
+Review 41 (student liked the course):
+A very useful course, though the course organization was poorer than I expected (think assignment specification changes and inconsistent Piazza answers) for a course that's taught so frequently. There are no notes provided by the course staff so you have to go to class and hope you catch every detail and can understand it, or get notes from other students.
+
+Review 42 (student liked the course):
+Pick your group members wisely!
+
+Review 43 (student liked the course):
+All I want to say has probably already been said on /r/uwaterloo
+
+Review 44 (student liked the course):
+Got difficult near the end but was overall definitely manageable.
+
+Review 45 (student liked the course):
+Quite a thicc course. Be prepared for the last two assignments (A4 & A5). They will not be gentle.
+
+Review 46 (student liked the course):
+By far the best CS course up to 2A. The concepts are extremely useful and interesting and the way that the course is structured really helps students to well thanks to the 40% assignments. Midterm (20%) was tricky and many failed or got low 50s but the final (40%) was definitely fair. The course isn't necessarily hard in itself, it's rather the amount of work for the assignments that make it very time-consuming. Take it with Nomair!!
+
+Review 47 (student liked the course):
+got to see a lot of the stuff i was exposed to on coop thoroughly explained in this course
+
+Review 48 (student liked the course):
+This course is known to be the "big one" in second year. It teaches the fundamentals of object-oriented programming, which is essentially used everywhere. It's definitely one of the most time-consuming courses when it comes to assignments. For many, this is when they realize that it is impossible to start an assignment the day before it's due.
+
+Review 49 (student disliked the course):
+Hard but useful
+
+Review 50 (student liked the course):
+Material isn't hard. Keep up with the assignments and take good notes and it's a breeze.
+
+Review 51 (student liked the course):
+Really fun course! Don't overcomplicate the assignments, they usually follow directly from what was learned in lecture, so take notes!
+
+Review 52 (student liked the course):
+Polynomial. Forever pain
+
+Review 53 (student liked the course):
+Lots of code to write, so be ready for that.
+
+Review 54 (student liked the course):
+One of the most useful courses a software developer can take
+
+Review 55 (student liked the course):
+Pretty hard but useful
+
+Review 56 (student liked the course):
+Work really really hard for this one, and get good teammates for the project
+
+Review 57 (student liked the course):
+Awesome course, really useful for learning about OOP. Make sure to start the final project early, and pick your team members wisely. Midterm median was a 72
+
+Review 58 (student liked the course):
+Great course. Before this I was coding in Java, not really properly understanding OOP. C++ is an absolute pain in the ass, especially when you leak memory. I really believe the offering should be in Java because Java is an industry standard, and since the point of the course is OOP, Java would be much better suited (I feel Java is more OOP-oriented). I had the course with Alrefai, ended up auditing Naeem's lectures.
+
+Review 59 (student liked the course):
+Midterm was hard as fuck but once the final rolls around it's a piece of cake. Do the assignments and get a partner for the project! CC3k for the final project is the easiest.
+
+Review 60 (student liked the course):
+Basically how to OOP in 4 months, do the assignments on time and you'll be fine.
+
+Review 61 (student liked the course):
+They recently changed the format of this course. Prepare to write a lot of test-cases. Yes, it's designed to make sure you thoroughly test your code. Other than C++, the course teaches a couple Gang of Four design patterns.
+
+Review 62 (student disliked the course):
+I don't know how this course has such a high useful rating. It was the most useless course I've ever taken. I went to only one lecture and I am still sad that I lost 50 minutes of my life on that. The assignments are not illuminating in the slightest, and are only worth doing because they're 40% of your grade.
+
+Review 63 (student disliked the course):
+Useful but maybe if the instructors and TAs weren't lazier than I am I would have enjoyed it a lot more.
+
+Review 64 (student liked the course):
+Get the little details down. Start the end project early.
+
+Review 65 (student liked the course):
+Good god, was this course a time sink. A lot of useful stuff is taught in this course, being the first 'real' CS course, but a lot of utter shite is taught as well. The midterm was essentially a trivia test, and the average was 49%. The exam was much better. The assignments themselves are soooooooooo time consuming. They often took days to do. The final project took 14-15 hours a week for three people for two weeks to do.
+
+Review 66 (student liked the course):
+Definitely the hardest course in terms of workload at the point where you have to take it. Nothing is particularly conceptually hard. In fact, before and up to assignment 2, the course is very trivial - don't let that fool you, because the course quickly becomes hectic as the workload exponentially increases and you will probably have to pull at least one all-nighter to keep up with the deadlines. The final project is fun if you and your group have a good sense of time management and absolute hell if you don't. If you're here, though, you probably have to take this course anyway, so just do it. If you put the time in you'll learn a lot. Midterm was absolutely brutal and filled with trivia, and the class average was actually under 50% when I took it. The final was a lot easier, with more of a focus on solving problems similar to those on assignments rather than memorizing minutiae about C++. (Protip: revisit your midterm while studying for your final. You never know what might show up.)
+
+Review 67 (student liked the course):
+not an easy course but a lot of fun!
+
+Review 68 (student liked the course):
+I can now use smart pointers! And ranged-based for loop! And lambda functions! Wow the world is a whole new place.
+
+Review 69 (student liked the course):
+u learn a lot of stuff, almost too much, very useful but I feel courseload was little too much
+
+Review 70 (student liked the course):
+Relatively easy assignments, but they require some time to complete. The exams are hit/miss. There's usually 2 programming questions and a bunch of short answer questions. If you don't understand a programming question, too bad, you're going to lose heavy marks. Get used to solving programming questions from previous midterms on paper and quickly
+
+Review 71 (student liked the course):
+I said this course was not easy with baited breath - it certainly wasn't difficult, but the amount of work needed to succeed in this course is unlike anything I'd encountered yet in my time here. It however, was well worth it, as this was by far the most useful course I've taken so far. In hindsight, I loved every moment of it, even those late nights working on insanely demanding assignments. If you aren't a CS major I'd still recommend taking this course, you learn so much its not even funny.
+
+Review 72 (student disliked the course):
+This course is a ton of work even if you are an experienced programmer. It isn't hard work but there is a bunch of it. The only time experience gives you an advantage is in the final project (protip: choose chess if they offer it, it is the easiest) where if you are good you can do it in half the time and half the lines of code of others while still getting a great mark (source: I did this).
+
+Review 73 (student liked the course):
+This is absolutely an amazing course! Useful, practical, exciting...
+
+Review 74 (student liked the course):
+It was cool beans
+
+Review 75 (student liked the course):
+Don't forget to study Bash.
+
+Review 76 (student liked the course):
+Best 2nd year CS course by far. Learn something about shells, C++, SE. The assignments can be a little long, though the final project is the only one that really stands out as being hard work.
+
+Review 77 (student liked the course):
+Lots of work, but it's a fun and rewarding class.
+
+Review 78 (student liked the course):
+You will learn OOP and some design patterns. And you will get a group project at the end, which is really fun.
+
+Review 79 (student disliked the course):
+Assignments are all very long and tedious but don't require any thinking. Assignment 2, 3, and 4 have two parts/due dates. Expect 20 hours of directionless guessing for due date 1 and 10 hours of brute force coding/commenting for due date 2. Do not take this course as an elective. Avoid at all costs if it's not required.
+
+Review 80 (student liked the course):
+Practice a lot.
+
+Review 81 (student liked the course):
+Loved this course but SUUUPER time consuming (took this as an engineering elective). Assignments take a long time and it's definitely not a "bird" course.
+
+Review 82 (student liked the course):
+Start Assignments early.
+
+Review 83 (student liked the course):
+A very intense but interesting course. Some materials are not as straight forward compare to the contents in CS135 and CS136, but they are indeed useful.
+
+Review 84 (student liked the course):
+Extremely useful course for many things, develops a solid foundation of OOD. Final project was interesing but really hard, midterm was bad, final exam was good.
+
+Review 85 (student liked the course):
+Super useful course. Coding is so fun!
+
+Review 86 (student liked the course):
+Awesome course, very useful for industry programming. Awesome final project, make sure to try your best on it! You can do whatever you want! (Implement graphics, networking, etc)
+
+Review 87 (student liked the course):
+Assignments take a looong time and aren't too difficult. A lot of people got destroyed on the midterm. All useful and enjoyable. Highly recommended!
+
+Review 88 (student liked the course):
+Extremely useful course with a fun project at the end. The concepts themselves are easy to understand if you've obtained a good understanding of previous CS courses. However, the assignments take a LOT of time. You can spend a lot of time on these assignments and still not get them finished. Definitely take this during a four-course semester if you can. The midterm was pretty tough too, with an average of <60.
+
+Review 89 (student liked the course):
+assignments are long and hard
+
+Review 90 (student liked the course):
+the final project is a BIG FUN, I am so motivated and get the work done within 20 hours of coding and I believe I am the one of the fastest groups done it. (I soloed it actually) YOU WILL ENJOY IT!
+
+Review 91 (student liked the course):
+I loved this course. One of the most useful courses I've had till now.
+
+Review 92 (student liked the course):
+Post-midterm assignments were very long. Exams were very comprehensive of the course material.
+
+Review 93 (student liked the course):
+DO EVERY ASSIGNMENT!!!!
+
+Review 94 (student liked the course):
+Very useful, sometimes hard to understand the material if you are new to OOP.
+
+Review 95 (student liked the course):
+Great course, super useful to anyone who wants to have a software developer job. I'd argue you NEED to have the knowledge in this course to be a software developer.
+
+Review 96 (student disliked the course):
+Assignments were BRUTAL and although I found learning about C++, Unix, and some design patterns very useful, I found the content pretty boring.
+
+Review 97 (student liked the course):
+There's so much content in this course that it's very hard to do well in it unless you're a CS major.
+
+Review 98 (student liked the course):
+Fun projects.
+
+Review 99 (student liked the course):
+Essential course for all cs/se students. It is fairly straightforward if you manage your time for assignments adequately.
+
+Review 100 (student liked the course):
+Start the assignments right when you get them. You will need 2 weeks to do them well!
+
+Review 101 (student disliked the course):
+I had pretty mixed feelings about this course, very useful content overall but the work load was very large to the point that I had to decide between finishing the assignments and studying for midterms several times.
+
+Review 102 (student liked the course):
+Very useful course on OOP. The assignments were very interesting too, especially the last one. Definitely a good course to start on C++
+
+Review 103 (student liked the course):
+Course is pretty simple for the most part. OOP C++ will be useful as well. The final project can be a hit or a miss depending on prof.
+
+Review 104 (student liked the course):
+One of my favorite courses!
+
+Review 105 (student liked the course):
+Good course.
+
+Review 106 (student liked the course):
+Heavy work load.
+
+Review 107 (student disliked the course):
+skipped too many lectures
+
+Review 108 (student liked the course):
+Easy course. It's just C++ programming and design patterns.
+
+Review 109 (student liked the course):
+Fun course, not super difficult, worth taking.
+
+Review 110 (student disliked the course):
+Incredibly boring course. If you're not in CS and already know O-O programming, it's completely useless.
+
+Review 111 (student disliked the course):
+People completely unfamiliar with objected oriented programming may find this useful, I more or less only picked up a few bits of terminology and some details about C++.
+
+Review 112 (student disliked the course):
+CS 246-SE (now listed as CS 247) seemed to be full of Java design patterns that had been transliterated to C++.
+

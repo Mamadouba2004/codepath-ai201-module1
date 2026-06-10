@@ -1,0 +1,397 @@
+Student reviews of STAT 230: Probability
+University of Waterloo — collected from UWFlow (student-run course review site)
+Course stats: 642 ratings | 84% found it useful | 58% found it easy | 61% liked it
+
+Review 1 (student liked the course):
+The course is not hard at all as long as you know how to apply the formula to the questions. It is pretty straightforward, just try to classify the questions and pick the right formula then do some calculations. Some people find it difficult, I think they tried too hard. In this course, you do not need a very deep understanding, just try to be on the surface.
+
+Review 2 (student disliked the course):
+I found this course fairly difficult, but it got easier after the 2nd term test. The quizzes and term tests always felt too long for the time given (especially the multiple choice). However, the marking scheme had some leniency (only 3/6 quizzes counted). The professors also seemed to care and put effort into answering questions on piazza. Lots of practice problems in the textbook.
+
+Review 3 (student liked the course):
+An excellent introduction to probability. The first third of the course was a review of high school probability (sample spaces, permutations, combinations, etc.). In contrast, the second half introduced some new concepts such as different distributions (poison, exponential, etc.), expected value/variance, and multivariate distributions. The hardest part was definitely the last 2 chapters (multivariate distributions/moment generating functions) as not a lot of time was spent on those sections, but the rest was well paced. For spring 2022, the course was 15% quizzes (best 3/6 taken), 25% for the best midterm, 10% for the worst midterm, and 50% for the final. All of the tests/quizzes were fair. All in all, an excellently executed course.
+
+Review 4 (student liked the course):
+It starts off with some high school Data Management review, but then gets more challenging towards the end with theory just building up to the CLT and MGF's by the end. Luckily, my term didn't get tested on those :). Overall it's a good course, especially to learn how to properly use a calculator, but don't forget the material for STAT 231!
+
+Review 5 (student liked the course):
+Good introduction to probability and probability distributions. I found the content to be dry at times and am not a fan of the formatting of the course notes (just looks like walls of text to me). However, they did contain ample practice problems which were very useful for studying as similar questions pop up on assessments. The grade breakdown was generous in which 3/6 quizzes were dropped and the mark of your better term test of the two gets boosted.
+
+Review 6 (student liked the course):
+DO NOT USE THE TEXAS INSTRUMENTS CALCULATOR. it does not have factorial, choose or permute. either "cheat" by using a better calculator, like the casio fx-300es plus or buy the casio fx-300ms with the pink tie from the wstore. both these calculators have factorial, choose and permute. they also have a stats mode where you can enter a table of values and probabilities which you can use to cut down time on the quizzes and exams, search up a youtube tutorial if you want to learn about it, its not too necessary, it just helps you spend less time, which I regularly ran out of before fully finishing most later quizzes and exams.
+
+Review 7 (student liked the course):
+Well made course with interesting content. However, consider taking STAT 241 if you would like to do a bit more proofs.
+
+Review 8 (student disliked the course):
+fuck stats.
+
+Review 9 (student liked the course):
+Solid course, no assignments only quizzes, tests and final, but 3 out of 6 quizzes are dropped and the test you do worse on is worth much less, so you've got a lot of chances to get ur grade back up if you do bad. Content is alright course notes is workable lecture notes are better. Hintz' notes and examples and explanations are especially good.
+
+Review 10 (student liked the course):
+It's such a valid course. Get an interesting and cool prof!!! I sat in on it with a boring prof and it was a boring, disengaging course, and then I took it with Hintz and now I don't understand why people think that it's a bad course. The evaluations are fair, and the material is pretty intuitive with an okay amount of straight knowledge/memorisation stuff.
+
+Review 11 (student disliked the course):
+STAT shouldn't be a requirement to CS. Make sure you learn EVERYTHING in this course, in particular the normal/gaussian, poisson, and exponential distributions, and MEMORIZE all the formulas on the formula sheet. If you don't you WILL FAIL STAT 231. I had to WD 231 because I didn't do this course well enough. Hoping I pass it the second time around...
+
+Review 12 (student liked the course):
+Very useful course but midterm and Final are much harder than normal quizzes. I took it online
+
+Review 13 (student disliked the course):
+I'm really bad at stats, so take this with a grain of salt. But it was a very broad course, so there was a LOT to remember. Actually struggled, even though I know lots of people who found it straightforward. Took it online in Spring 2021
+
+Review 14 (student disliked the course):
+took it with Don McLeish in Winter 2022. not easy at all, don't know how I passed the course.
+
+Review 15 (student liked the course):
+online version is easy
+
+Review 16 (student liked the course):
+Nice course. Assignments and quizzes were easy but the midterm and final were kind difficult because we didn't get much time. If you prepare for it, shouldn't be too hard.
+
+Review 17 (student disliked the course):
+Lectures were boring and dry, though not necessarily the fault of the prof. Assessments felt noticeably harder than the content covered in classes.
+
+Review 18 (student disliked the course):
+stats is just combinatorics but worse
+
+Review 19 (student liked the course):
+Took the course online with in-person tutorials. Quizzes were fair and we had 3 attempts each. Assignments took some time but weren't too bad. Content got really a lot harder in the last two weeks, but luckily it wasn't the focus of the exam. Overall a really important and (mostly) enjoyable course.
+
+Review 20 (student liked the course):
+Easy course up until the last three weeks. Module examples and review questions are enough for quizzes, but practice problems in the course notes are better to prepare for the midterm and final, which were average difficulty. Exam MC questions are modified quiz questions. Exam written questions are same difficulty as course notes problems
+
+Review 21 (student liked the course):
+A pretty good online course. You get three attempts for the quizzes, and questions are pretty similar between attempts so you can spend all the time you need to figure out things you don't understand. The course had 3 assignments that were literally worth like 1% combined. You probably don't even have to do them, but the instructors use these assignments to teach you the R language. I found the midterm and final to be pretty fair. There were no surprises and depending on your familiarity with R or some other programming language, you could bruteforce some questions to check your answer.
+
+Review 22 (student disliked the course):
+Notes were unorganized and no help on piazza, barely survived the chapter quizzes
+
+Review 23 (student disliked the course):
+Being my first stats course ever, I really struggled in the beginning with a lot of new concepts and techniques. As the course went on, things started to click, but nonetheless, it was still stressful. Probably due to the online lectures being hard to understand and essentially learning the entire course from the course notes. An overall good foundation for future stat courses.
+
+Review 24 (student disliked the course):
+This course isn't that hard and also has some real-world applications which are what I like. We basically had to teach the entire course ourselves with online which wasn't bad, but I'm not the best at stats so I found it a bit tough. But after enough practice, I was able to grasp a lot of the details and ended pretty well.
+
+Review 25 (student liked the course):
+Online course delivery was similar to Math137/8 - slow, online Mobius videos. For the most part, the videos covered everything you need but for some weeks the videos were scuffed in that they assumed you had knowledge that you didn't have yet - in these cases, I'd recommend taking a look in the textbook. Greg Rice's in-person, weekly tutorials were godly - they covered the whole week's content + good examples + some hints about what to expect on the exams. Overall, the course was pretty light imo though I know some people struggled with the timing on exams (not enough time to finish), so make sure you practice that when prepping for exams. My biggest piece of advice (for online delivery) would be to get used to using R commands for calculating distributions - they make your life a lot easier & save time on exams.
+
+Review 26 (student liked the course):
+Overall I have mixed feelings about this course. There were things I liked about it and did not like about it. What I liked about this course it that it has many applications and that it was more computational based rather than strictly proof based. The course notes are quite useful and there are a lot of practise problems they give you that will help you feel more prepared for exam and even your upcoming assignments. I really like that the course notes are detailed as well. With that being said here are the things I did not like about the course... The course is basically a "teach it yourself course". There are weekly mini lectures you can watch which provide maybe 30-40% of the lesson where as you're expected to read the course notes as well because just going off the mini lectures will not help you with much of the quizzes unfortunately. Meaning that there are quiz topics that aren't covered in the Mobius but that are discussed from the notes. For the assignments, they aren't bad they are just annoying since a lot of it is done in R and I am more of a solve by hand guy rather than software. What I mainly did not like about the course again, was the fact it was more of a self learning course and that there weren't any live classes, or extra weekly live tutorials for online students. Make sure to study hard for the midterm and final because there are a lot of questions for the time they give you.
+
+Review 27 (student disliked the course):
+Took this course online in Fall 2021. Content before mid-term was relatively easy and digestible. However, content after the midterm, at least for me, became progressively more and more confusing and extremely difficult to understand. Assignments and weekly quizzes were very easy though.
+
+Review 28 (student liked the course):
+Statistics are fundamentals of many paths in CS, the course is very useful. It's also easy if you solve the extra problems in the course notes and the bonuses in the assignments.
+
+Review 29 (student liked the course):
+This course emphasizes too much on combinatoric computation which is annoying. The midterm and the final exam are made almost impossible to finish. The bonus marks are easy and hard to get since you have to spend a lot of time analyzing or computing or asking your computer to compute. But I highly appreciate those bonus questions such as the Markov chain's problem, those are the few questions that make me feel worth taking.
+
+Review 30 (student liked the course):
+Not an easy course, but not hard either. I would say this is definitely easier than MATH 138 though. The concepts were not super interesting since I really only enjoy applied CS stuff hahaha, but it was not dry and boring either. The one aspect I really liked about this course is that it is applied, there were not any proof questions whatsoever which was superb. If you enjoy something applied and are at least somewhat interested in data science, you would enjoy this course. My complaint about this course is that it felt like you literally self-taught yourself in this course, the instructors will not help you on the assignments (at least in my offering). There were lecture video and weekly recap but I found the course note to be your best bet to learn the materials as it explained concepts thoroughly with so many examples and practice problems (which make me happy since some math class just assume you know a lot or are proficient enough at math, def not me haha). Overall quite a decent course.
+
+Review 31 (student liked the course):
+Easy until some point, then it becomes just too complicated for my little brain. Definitely useful though.
+
+Review 32 (student disliked the course):
+I really hated the way this course was run in Spring 2021, the instructors were useless, please DO NOT take this course if any of these three profs are teaching: James Adcock, Steve Drekic, Pavel Shuldiner. They are really unhelpful and their go to suggestion is, "Read the Announcements on LEARN". I do not know which prof woke up one day and was like we are not going to allow them to go back to a question and also block access to Piazza during exams so that not even private posts can be made. This course will probably be my lowest grade so far which was made difficult and painful unnecessarily.
+
+Review 33 (student disliked the course):
+Fuck this course, I don't understand why the R assignments are so tough. What's with the lack of practice questions as well. Questions are either plug and chug or some whimsical form of a concept that won't come across to you after an hour
+
+Review 34 (student disliked the course):
+Easy course, shit profs. If you want to help out your classmates then just type out outright wrong responses on Piazza, that way Pavel's fragile ego will get hurt and he'll go out of his way to help them. It's like a little kid who doesn't want to talk to you till they can roast you for saying wrong shit. Midterms are absolute pain. WHO THOUGHT ALLOWING QUESTIONS TO BE ONLY VIEWED ONCE WAS A GOOD IDEA? IT DOES NOT MAKE ANY SENSE. And then they messed up so many students by asking students to first input the answers on Mobius, then show the working on Crowdmark. Anyways I am almost done with this course and sorry for those who will have to endure it :)
+
+Review 35 (student disliked the course):
+awful course, bad organization, but I think it's because it was online, probably in person is better
+
+Review 36 (student liked the course):
+Easy 99, I didn't learn anything.
+
+Review 37 (student disliked the course):
+Taught sooo badly
+
+Review 38 (student liked the course):
+The concepts are easy but the midterm/final can be hard depending on how the questions are being asked.
+
+Review 39 (student liked the course):
+The course is run really well. Lecture videos and course notes have a lot of info. I just wish profs were more active on Piazza. The format of the course is nice, weekly mobius quizzes are typically quite easy, just study up a couple hours beforehand. The midterm and exam however were a time crunch and probably my most stressful exam. Overall, great course, no crunch until exams start.
+
+Review 40 (student liked the course):
+Not a terribly difficult course. Material is relatively interesting. Lectures are clear and tons of notes available.
+
+Review 41 (student disliked the course):
+I will be super honest with this course. This course is actually very useful and can be "relatively" easy when compared with other tough courses such as Math239. But it sure isn't "easy" or less demanding. You must study a good chunk of it every week and ace the weekly quizzes and study LOTS before the exams to get ace the exams as well. If you want 95+, my advice is to not watch the lectures (too long), just read the course notes as they are explained in more detail and contain some great advanced questions that will get you prepared for the hard questions that you may encounter in quizzes or the exams. The assignments are very straightforward, so do not stress too much by the amount (they are quite long), but make sure you study LOTS! Because they are actually useful and will come in handy in future courses. But I personally did not enjoy the structure of how this course was run in my term (during covid-19). But otherwise, very useful course.
+
+Review 42 (student disliked the course):
+Computationally intense, dry, and useless. There's no need to understand any of the content, you can just "plug and chug" until you get all the answers. I did not learn anything other than how to do well in Stat 230.
+
+Review 43 (student liked the course):
+Quite enjoyed it. Fun and fair
+
+Review 44 (student liked the course):
+Perhaps too easy to be useful. Literally did nothing and passed with a 95. Learn your materials kids.
+
+Review 45 (student liked the course):
+The course notes are fantastic.
+
+Review 46 (student liked the course):
+Not a bad course! Taught myself everything pretty easily
+
+Review 47 (student disliked the course):
+It was very easy in the beginning; very similar to high school data management. However, there were too many distributions and it got more and more difficult towards the end.
+
+Review 48 (student liked the course):
+Very fun and interesting course. If you took stat in high school this is an easy 80. All the exams and tests were fair.
+
+Review 49 (student liked the course):
+There were no TAs or piazza during the spring term.. always had to wait in office hours. We had 3 quizzes and they were alright
+
+Review 50 (student liked the course):
+went in final not knowing what cdf was, ezpass
+
+Review 51 (student liked the course):
+The course starts off easy, but gets quite difficult towards the end. The midterms and final have some super difficult questions, but also some trivial ones for easy marks so getting a decent mark isn't hard.
+
+Review 52 (student liked the course):
+Good intro to probability. Fair course if put in the work to understand the concepts and practice. Interesting content.
+
+Review 53 (student liked the course):
+Excellent Course
+
+Review 54 (student liked the course):
+Introduction to probability principles, then goes onto discrete and continuous distributions. Some say the first half of the course is easier while others say the second half is. It's a very computation heavy course, so if you're not good at proofs, it might be the course for you. Overall, it's a very straightforward course.
+
+Review 55 (student liked the course):
+Some concepts are much harder than others.
+
+Review 56 (student liked the course):
+A useful introduction to probability and to upper year stats courses. The first part is combinatorics and can get tricky to understand, the second is more theoretical and is definitely harder. Overall it was a good course that required time to understand. Midterms were fairly easy but final was definitely harder. Took it with Greg which was such an awesome prof!
+
+Review 57 (student liked the course):
+I have a love-hate relationship with stat, but it was pretty cool towards the end. I'm not good at counting, otherwise I enjoyed the other content we did, except for Indicator variables. If you study hard and read notes (especially do Prof Nagham's questions ) you can get a good grade.
+
+Review 58 (student liked the course):
+I really liked the content in this course, although slightly too computational for my taste. However, the course is very intuitive, at least for the first half, so if intuition is your thing, then expect to do a bit less work.
+
+Review 59 (student liked the course):
+The interpretation of this course is very mixed between people. Some people find it extremely easy to get a 90+ on, while others find it extremely difficult and barely pass. Probability seems to be more intuitive for some people. It's quite different in thinking compared to other math courses before it. If you work extremely hard, you can still achieve a good mark in the class even if it is unintuitive. Some people will say the start of the course is the toughest part since counting can be difficult and the course becomes more formulaic in the second half. Others say it only gets tough in the end. Overall, there are a lot of mixed opinions about each aspect of this course. I found the course to be quite challenging and enjoyable.
+
+Review 60 (student disliked the course):
+Fuck this course. It was just a complete drag.
+
+Review 61 (student disliked the course):
+Easy until the final, but the final was nothing like the sample finals so it hit hard. Take it with Diana if you can.
+
+Review 62 (student disliked the course):
+Really didn't like how the tutorials were only there to give you more tests instead of practising problems.
+
+Review 63 (student liked the course):
+Great for exam p
+
+Review 64 (student disliked the course):
+If you are good with combinatorics, it's the perfect difficulty and engagement at the beginning of the course. As soon as chapter 5 begins, it becomes more like knowing how to plug numbers into a formula rather than understanding the concept itself.
+
+Review 65 (student liked the course):
+Easy for the most part till the end of the course which gets a little hard. Practice a lot and you should do well as all exams are quite fair.
+
+Review 66 (student disliked the course):
+long and hard
+
+Review 67 (student disliked the course):
+easy to pass but the course is so annoying, it was hell on earth.
+
+Review 68 (student liked the course):
+After I took Stat 231, I found this course is the easiest course in my life.....
+
+Review 69 (student disliked the course):
+So fucking boring, the prof didn't help the excitement factor either.
+
+Review 70 (student disliked the course):
+fuck this course.
+
+Review 71 (student liked the course):
+Purely computational, should be an easy class if you keep up with the work, all assessments were really fair
+
+Review 72 (student liked the course):
+5/7 would take again
+
+Review 73 (student liked the course):
+Practice a lot. Little memorizing which is nice.
+
+Review 74 (student liked the course):
+Good introduction to probability. The course itself can be very confusing at times, as probability is such a different beast than most other mathematics. Course is pure computation. Keep up with the material, as there are no assignments, only three quizzes.
+
+Review 75 (student liked the course):
+I hate this course
+
+Review 76 (student disliked the course):
+this course is so fucking boring holy shit. I hate my prof.
+
+Review 77 (student liked the course):
+Pretty good.
+
+Review 78 (student liked the course):
+Make sure to do all the practice problems. They're essential for success! I felt as if the course organization was lacking though. Spent way to much time on counting arguments and not enough on the last few chapters.
+
+Review 79 (student liked the course):
+The lack of assignments is very welcome although there are a lot of tests. The first half of the course is very easy if you've taken data management in high school.
+
+Review 80 (student liked the course):
+Very useful course!
+
+Review 81 (student liked the course):
+Meh
+
+Review 82 (student liked the course):
+I found this course very enjoyable. First quarter or so is High School Data Management review (counting techniques, basic probability etc.) Then it gets interesting. First midterm was really easy, second was tough and the final was somewhere in between. No assignments but tutorial tests every four weeks to make sure you're keeping up with the Material. Course Notes were fantastic with lot's of practice problems!
+
+Review 83 (student disliked the course):
+Kind of boring until the end.
+
+Review 84 (student disliked the course):
+There aren't any weekly assignments which ironically is worse than having them. Make sure to do the assigned problems and you'll pretty much breeze through the course. Tests/midterms aren't very bad. Can't say that this is exhilarating material, though.
+
+Review 85 (student liked the course):
+Starts out pretty easy, then it gets kind of confusing in the middle, and really confusing near the end.
+
+Review 86 (student liked the course):
+STAT230 is so easy. It's astronomically easier than STAT240.
+
+Review 87 (student disliked the course):
+Practice.
+
+Review 88 (student liked the course):
+This is a pretty cool course. I found it to be really interesting. I found the first two units to be challenging but everything else was pretty easy. As a result, the first midterm was tough but none of the other assessments were.
+
+Review 89 (student liked the course):
+Took this on my non-degree term switching into the Math Faculty. Not an easy course for everyone - you will probably need to put in a reasonable amount of effort if you want to do well in this course. The material, however, was very interesting and applies a lot to actuarial science (which I am switching into) and I really enjoyed the material a lot! A lot of it is math-heavy so be prepared for that...
+
+Review 90 (student disliked the course):
+Do not skip class and you will do fine
+
+Review 91 (student disliked the course):
+I didn't like the course at all, but I had to take it due to its being a requirement. Passed it even better than I though I would though.
+
+Review 92 (student liked the course):
+Pretty Interesting. Overall the course was okay. Loved the distributions. First midterm was decent, second midterm was a joke but the final was really hard.
+
+Review 93 (student liked the course):
+The second half of the course was much more interesting than the first
+
+Review 94 (student liked the course):
+Easiest second year MATH/CS course.
+
+Review 95 (student disliked the course):
+Generally an easy course.
+
+Review 96 (student liked the course):
+Really interesting stuff. Everything was easy except the final.
+
+Review 97 (student liked the course):
+Good course, needs assignments!
+
+Review 98 (student liked the course):
+covers 60% of exam P, not bad.
+
+Review 99 (student liked the course):
+Good course, not difficult, keep with the lectures and you'll be fine
+
+Review 100 (student liked the course):
+well, it's mandatory, and I would say it's OK. you need those ideas to go on with your CS career, but I don't think it matters as much as other courses. but again, it's mandatory, you have to do it.
+
+Review 101 (student liked the course):
+If you want to do well in Stat 231, you need to understand the latter part of the course well. Stat 231 builds on a lot of the variances, standard deviation, distributions stuff.
+
+Review 102 (student disliked the course):
+Only trick questions. Doing the assigned material doesn't guarantee you'll do well in this course.
+
+Review 103 (student liked the course):
+Easy course. However since there are no weekly assignments (at least in my semester) it is easy to get out of practice fast. I had this problem as it was easy for me to neglect this course, with the lack of graded assignments. There are tutorial questions, but it's not graded. I also didn't attend many of the lectures, my studying was mainly from the book and youtube. With better work ethics, this class should be a breeze.
+
+Review 104 (student liked the course):
+such a easy course in all of my course selection
+
+Review 105 (student liked the course):
+Lectures were not helpful. Read the entire textbook and go to tutorials and you should pass.
+
+Review 106 (student liked the course):
+Course is hell if you don't keep up. I found it intersting though.
+
+Review 107 (student disliked the course):
+Interesting examples provided in class. Quizzes, midterms and finals were rather harsh though, and it feels like that there was a significant mark "adjustment" at the end. Warning: no assignments are provided, so you need to keep up independently.
+
+Review 108 (student disliked the course):
+Half is a review of Data Management. Pretty straightforward. Covers topics from P exam except for some bivariate and calculus stuff.
+
+Review 109 (student liked the course):
+I found it easy, but that was partially because they kept belling it up because a lot of people failed.
+
+Review 110 (student disliked the course):
+This could be an interesting course, however my instance of it was quite unnecessarily difficult. Beware, it is somewhat important for STAT231
+
+Review 111 (student disliked the course):
+Useful, but gosh did I hate it. Not enough homework - hard to get good at stuff without practice.
+
+Review 112 (student liked the course):
+Really liked this course, basic stats with some fun application. Very intuitive course
+
+Review 113 (student liked the course):
+Interesting second year course. If you go to class and do all the problem sets, then you should do well in the course.
+
+Review 114 (student disliked the course):
+Starts out easy and then gets quite hard later on. Keep up with the work if you want to do well.
+
+Review 115 (student disliked the course):
+Poorly taught; little support. Midterms and exam were difficult; the grade will likely have to be curved in the end.
+
+Review 116 (student liked the course):
+Interesting course, although escalates pretty quickly towards the end. Consistent practice and it shouldn't be that bad.
+
+Review 117 (student liked the course):
+This course is supposed to be easy, but you really need a good prof to make it so. There are too many terrible profs that teach this course and make it overly complicated.
+
+Review 118 (student disliked the course):
+Course is very useful, and is filled with people from numerous programs. It can get a bit difficult if you never studied probability before in high school.
+
+Review 119 (student liked the course):
+Easy, not much work.
+
+Review 120 (student liked the course):
+Great course, just go to class!
+
+Review 121 (student disliked the course):
+Could've been useful, I suppose.
+
+Review 122 (student liked the course):
+The first midterm is a review of high school data management. The second midterm introduces new concepts and the final is usually pretty tough and is very heavy on the material in the final few weeks, which I'm not sure I even understand today. All in all you can do well if you pay attention and benefit from the bell curve at the end of the course.
+
+Review 123 (student disliked the course):
+Up to first midterm was easy, then it got bad...
+
+Review 124 (student disliked the course):
+Course could've been useful. Prof ruined it
+
+Review 125 (student disliked the course):
+Pretty much the entire course is about random variables. The content gets a bit dry after awhile.
+
+Review 126 (student disliked the course):
+I found lectures to be too qualitative or too focused on proofs, so they didn't prepare us for the midterms and final exam.
+
+Review 127 (student liked the course):
+Easier than your high school data management and probability class. For some reason so many students did poorly that the final grade was scaled by over 30%... but really I could have gotten a 100% without scaling while I was in highschool. Probably the easiest class I've taken, and that's including ARTS electives.
+
+Review 128 (student disliked the course):
+Midterm was beyond difficult, class avg 36%
+
+Review 129 (student liked the course):
+Study.
+
+Review 130 (student disliked the course):
+the course itself is OK, but the prof (Changbao Wu) sucks
+
+Review 131 (student liked the course):
+Not the easiest intro courses but it was fair.
+
