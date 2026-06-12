@@ -1,3 +1,10 @@
+---
+title: The Unofficial Guide
+sdk: gradio
+sdk_version: "4.44.0"
+app_file: app.py
+---
+
 # The Unofficial Guide — Project 1
 
 A Retrieval-Augmented Generation (RAG) system that answers plain-language questions
