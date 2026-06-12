@@ -7,6 +7,8 @@ student-review chunks, generates a grounded answer, and shows which source
 documents the answer drew from.
 """
 
+import startup; startup.build_if_needed()
+
 import gradio as gr
 
 from evaluate import EVAL
